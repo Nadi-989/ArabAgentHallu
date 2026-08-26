@@ -1,0 +1,2 @@
+condition,n_pairs,paired_diff,ci_lo,ci_hi,discordant_pairs,min_detectable_diff_80pct
+cot300,144,-0.0417,-0.1319,0.0556,48,0.1347

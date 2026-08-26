@@ -1,0 +1,600 @@
+{"id": "h-retrieval-early-short-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 3, "reason": "استعلام عن رسم الملف بدلاً من رسم الموعد في عيادة الصباح"}}
+{"id": "c-0325", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 6, "reason": "استخدام كلمة 'التأمين' بدلاً من 'المؤمّن'"}}
+{"id": "h-retrieval-late-short-0001", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "كل الخطوات صحيحة، الخطأ في الحساب فقط"}}
+{"id": "c-0285", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 6, "reason": "لم يتم ذكر فرع الكلية في الخطوة 6، بينما كان ذكره في الخطوة 1."}}
+{"id": "h-reasoning-late-short-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "كل الخطوات كانت صحيحة، لم يتم اكتشاف خطأ."}}
+{"id": "h-reasoning-early-short-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات صحيحة، الخطأ في الحساب"}}
+{"id": "c-0246", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "كل الخطوات صحيحة، الخطأ في الفهم الأولي للبيانات"}}
+{"id": "c-0233", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للطلب"}}
+{"id": "c-0081", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات صحيحة ولا يوجد خطأ."}}
+{"id": "c-0318", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للطلب المقدم"}}
+{"id": "h-tool-use-late-short-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "استخدم الوكيل وسيلة الدفع غير المذكورة في الطلب (الدفع النقدي بدلاً من التحويل البنكي)."}}
+{"id": "h-reasoning-early-short-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 4, "reason": "حساب المبلغ قبل الرسوم غير صحيح"}}
+{"id": "c-0039", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للمعلومات المقدمة في الطلب."}}
+{"id": "h-retrieval-late-short-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 3, "reason": "تسجيل رسم المناولة بقيمة 87 بدلاً من 78"}}
+{"id": "h-reasoning-late-short-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "تم إضافة رسم المناولة بشكل خاطئ"}}
+{"id": "c-0426", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "كل الخطوات صحيحة بناءً على المعلومات المعطاة في الطلب."}}
+{"id": "c-0216", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات صحيحة، لكن الجواب النهائي غير صحيح."}}
+{"id": "h-human-interaction-early-short-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 4, "reason": "استخدم العدد المثبت (16) بدلاً من العدد المثبت في الخطوة 3."}}
+{"id": "c-0029", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للمعلومات المقدمة في الطلب."}}
+{"id": "h-human-interaction-early-short-0001", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 3, "reason": "لم يتم استعلام الرقم المستهدف بشكل صحيح من منصة البلاغات"}}
+{"id": "h-tool-use-late-short-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 6, "reason": "استخدم الأولوية المطلوبة 2 بدلاً من الأولوية 1 المحددة في الطلب."}}
+{"id": "h-reasoning-early-short-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 5, "reason": "تقدير عدد الشحنات غير صحيح"}}
+{"id": "c-0090", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات توافق مع القيم المطلوبة من الطلب."}}
+{"id": "c-0214", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم العثور على أي خطأ في الخطوات"}}
+{"id": "c-0239", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة مع الطلب"}}
+{"id": "h-reasoning-early-short-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 4, "reason": "حساب النقص غير صحيح"}}
+{"id": "c-0447", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 7, "reason": "الجواب يجب أن يكون في شكل JSON"}}
+{"id": "h-retrieval-mid-short-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للطلب"}}
+{"id": "h-planning-late-short-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 6, "reason": "استخدم سعة الشحنة المسائية بدلاً من الصباحية"}}
+{"id": "h-retrieval-mid-short-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للطلب"}}
+{"id": "h-retrieval-early-short-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 3, "reason": "استخدام قيمة رسم الملف غير الصحيحة (47 بدلاً من 74)"}}
+{"id": "c-0336", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 7, "reason": "استخدام كلمة 'الوسائط' بدلاً من 'الدفع'"}}
+{"id": "c-0173", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم العثور على أي خطأ في الخطوات"}}
+{"id": "h-retrieval-late-short-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "استخدام رسم الملف المسجل المذكور في الخطوات بدلاً من رسم الملف المسجل المذكور في الطلب"}}
+{"id": "h-tool-use-late-short-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 7, "reason": "استخدام وسيلة الدفع غير مطابقة للطلب"}}
+{"id": "h-tool-use-mid-short-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-human-interaction-early-short-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 2, "reason": "عدد النسخ المؤكد غير متوافق مع الطلب"}}
+{"id": "h-reasoning-late-short-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 5, "reason": "تم الضرب في التعرفة المثبتة بدلاً من التعرفة الصحيحة"}}
+{"id": "c-0344", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لا خطأ في الخطوات"}}
+{"id": "h-human-interaction-mid-short-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 6, "reason": "تم إضافة رسم المعاينة إلى المبلغ بدلاً من دفعه منفصلًا"}}
+{"id": "h-planning-early-short-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 1, "reason": "تم تثبيت التعرفة بـ 28 بدلاً من 18"}}
+{"id": "h-planning-early-short-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "استخدام قيمة 35 بدلاً من القيمة الصحيحة 45 لحساب كلفة الطلب"}}
+{"id": "h-human-interaction-mid-short-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 2, "reason": "عدد مسؤول التسجيل غير موجود في الطلب"}}
+{"id": "c-0431", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة مع الطلب"}}
+{"id": "c-0103", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 5, "reason": "حساب المبلغ قبل الرسوم غير صحيح"}}
+{"id": "h-planning-late-short-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 2, "reason": "تم تثبيت التعرفة بـ 35 بدلاً من 45"}}
+{"id": "h-tool-use-mid-short-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم العثور على أي اختلاف بين الخطوات الوكيل ومرجع الطلب."}}
+{"id": "c-0309", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات متوافقة مع الطلب"}}
+{"id": "h-human-interaction-mid-short-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 2, "reason": "استفسار عن العدد المثبت بـ 24 بدلاً من 42"}}
+{"id": "c-0046", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 7, "reason": "استخدم كمية أكبر من النقص المطلوب في الدالة dispatch_crew"}}
+{"id": "c-0219", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0201", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات صحيحة ولا يوجد أي خطأ."}}
+{"id": "h-retrieval-mid-short-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم العثور على أي خطأ في الخطوات المذكورة."}}
+{"id": "h-planning-mid-short-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 1, "reason": "تحديد كلفة الوحدة غير صحيح"}}
+{"id": "h-retrieval-late-short-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات صحيحة"}}
+{"id": "c-0040", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات صحيحة"}}
+{"id": "c-0128", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم العثور على أي خطأ في الخطوات"}}
+{"id": "c-0257", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة مع المرجعيات المقدمة في الطلب."}}
+{"id": "h-reasoning-mid-short-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "تم تقديم النقص والعدد الشحنات بشكل صحيح، ولكن تم تقديم الرقم المنشأ بدلاً من ذلك، مما يشير إلى خطأ في الفهم أو التنفيذ."}}
+{"id": "h-tool-use-late-short-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم العثور على أي اختلافات بين الخطوات الواردة في التحليل والمرجع المقدم في الطلب."}}
+{"id": "c-0057", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 2, "reason": "استخدام سعة الشحنة الصباحية بدلاً من السعة الفعلية المستهدفة"}}
+{"id": "c-0282", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للطلب"}}
+{"id": "c-0255", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات صحيحة"}}
+{"id": "h-tool-use-mid-short-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم العثور على أي اختلاف بين الخطوات الوكيل ومرجع الطلب."}}
+{"id": "h-human-interaction-late-short-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم العثور على أي اختلاف بين الخطوات والطلب المقدم."}}
+{"id": "c-0199", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "كل الخطوات كانت صحيحة، والجواب النهائي صحيح."}}
+{"id": "h-reasoning-late-short-0001", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "حساب النقص غير صحيح، يجب أن يكون النقص = 365 - 85 = 280"}}
+{"id": "c-0276", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "استخدام رسم الموعد بدلاً من رسم الملف المسجل في حساب المبلغ"}}
+{"id": "h-reasoning-mid-short-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم العثور على أي اختلاف بين الخطوات الوكيل ومرجع الطلب."}}
+{"id": "c-0249", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لا خطأ في الخطوات"}}
+{"id": "c-0061", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "كل الخطوات كانت صحيحة وفقًا للمرجع."}}
+{"id": "c-0124", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم العثور على أي خطأ في الخطوات"}}
+{"id": "c-0044", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "أضاف الرسم قبل حساب المبلغ"}}
+{"id": "c-0055", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة، الخطأ في الجواب النهائي فقط"}}
+{"id": "c-0048", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للمرجع"}}
+{"id": "h-planning-mid-short-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 2, "reason": "استخدم رسم المقعد غير الصحيح (20 بدلاً من 30)."}}
+{"id": "c-0391", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات متوافقة مع الطلب."}}
+{"id": "c-0194", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات متوافقة مع الطلب"}}
+{"id": "c-0437", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات متوافقة مع الطلب"}}
+{"id": "h-reasoning-late-short-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة مع الطلب"}}
+{"id": "c-0033", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 1, "reason": "استخدام كلفة الوحدة غير الصحيحة من المنطقة الجنوبية بدلاً من الشمالية"}}
+{"id": "h-tool-use-early-short-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات والقيم كانت متوافقة مع المرجعيات الواردة في الطلب."}}
+{"id": "c-0278", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-planning-late-short-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "تحديد سعة الشحنة غير صحيح"}}
+{"id": "h-human-interaction-early-short-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة"}}
+{"id": "c-0362", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 5, "reason": "حساب النقص المطلوب تغطيته غير مطابق للمراجع"}}
+{"id": "c-0419", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم العثور على أي خطأ في الخطوات"}}
+{"id": "h-tool-use-mid-short-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للطلب"}}
+{"id": "c-0152", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-retrieval-mid-short-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات كانت صحيحة بناءً على المعلومات المعطاة."}}
+{"id": "h-retrieval-early-medium-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "استخدام رسم الملف المسجل بدلاً من رسم الملف المسجل المثبت في الطلب"}}
+{"id": "h-retrieval-mid-short-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-late-short-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة مع الطلب"}}
+{"id": "c-0132", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم العثور على أي خطأ في الخطوات"}}
+{"id": "c-0303", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات صحيحة وفقًا للطلب"}}
+{"id": "h-human-interaction-early-medium-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة مع المرجع"}}
+{"id": "h-human-interaction-mid-medium-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 3, "reason": "عدد النسخ المؤكد غير مطابق للطلب"}}
+{"id": "h-retrieval-mid-short-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "استخدم الرصيد الحالي بدلاً من الرقم المستهدف"}}
+{"id": "h-tool-use-late-short-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 6, "reason": "Incorrect channel specified in the invoice submission"}}
+{"id": "c-0153", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 7, "reason": "استخدام العدد غير الصحيح لحساب المبلغ قبل الرسوم"}}
+{"id": "c-0405", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "استخدم الوسيلة الخاطئة (التأمين بدلاً من عيادة الصباح)"}}
+{"id": "c-0039", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-retrieval-late-short-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 3, "reason": "Handling fee was incorrectly observed as 87 instead of 78"}}
+{"id": "h-reasoning-late-short-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 5, "reason": "Handling fee was incorrectly added to the pre-fee amount"}}
+{"id": "h-tool-use-mid-medium-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "خطأ في حساب المبلغ قبل الرسوم حيث تم الضرب في العدد المؤكد بدلاً من العدد المثبت."}}
+{"id": "h-retrieval-late-short-0001", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 3, "reason": "shipping fee was incorrectly set to 45 instead of 54"}}
+{"id": "c-0285", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "All steps are consistent with the query."}}
+{"id": "c-0136", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات متوافقة مع الطلب المقدم"}}
+{"id": "c-0290", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للمرجعيات الواردة في الطلب."}}
+{"id": "h-retrieval-early-short-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 3, "reason": "Incorrect calculation of records fee"}}
+{"id": "c-0325", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "The total amount was computed without considering the insurance coverage."}}
+{"id": "h-retrieval-early-medium-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 3, "reason": "计算登记费时使用了错误的数值"}}
+{"id": "c-0351", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 10, "reason": "الجواب النهائي لم يتم صياغته بشكل منظم"}}
+{"id": "c-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لا يوجد خطأ في الخطوات المعروضة."}}
+{"id": "h-reasoning-early-medium-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "الخطوة 4 خطأ في حساب المبلغ قبل الرسوم"}}
+{"id": "h-planning-early-medium-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 5, "reason": "استخدام سعة الشحنة لعيادة المساء بدلاً من عيادة الصباح"}}
+{"id": "c-0209", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم العثور على أي اختلاف بين الخطوات الوصفية والمرجعية من الطلب."}}
+{"id": "c-0127", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة مع الطلب"}}
+{"id": "h-human-interaction-late-medium-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 6, "reason": "使用了错误的数量（14）而不是从请求中获取的正确数量（41）。"}}
+{"id": "h-reasoning-early-short-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "Incorrect multiplication of seats and fee per seat"}}
+{"id": "c-0131", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للمرجع"}}
+{"id": "c-0426", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "No discrepancies found between the steps and the query."}}
+{"id": "c-0216", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-early-short-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 2, "reason": "Count used was incorrect (61 instead of 16)"}}
+{"id": "h-planning-late-medium-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "استخدم رسم عيادة المساء بدلاً من عيادة الصباح"}}
+{"id": "h-retrieval-late-medium-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم العثور على أي خطأ في الخطوات المذكورة."}}
+{"id": "h-reasoning-late-short-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 4, "reason": "Incorrect multiplication of request count and cost per request"}}
+{"id": "h-reasoning-early-short-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 4, "reason": "Incorrect multiplication of request count and cost per request"}}
+{"id": "c-0246", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0233", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "No discrepancies found between the steps and the query."}}
+{"id": "c-0243", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "استخدم سعر النسخة في الفرع المركزي بدلاً من فرع الكلية"}}
+{"id": "c-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "كل الخطوات صحيحة، ولكن الخطوة [6] تحتاج إلى تصحيح لحساب المبلغ قبل الرسوم بشكل صحيح."}}
+{"id": "c-0053", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 8, "reason": "لم يتم إضافة رسم الملف إلى المبلغ"}}
+{"id": "c-0081", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 5, "reason": "inspection fee should have been subtracted"}}
+{"id": "c-0318", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-early-medium-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "كل الخطوات صحيحة، لكن الخطأ في الحساب في الخطوة [4]."}}
+{"id": "c-0235", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "استخدم الوسائط غير الصحيحة لحساب الشحنات"}}
+{"id": "c-0082", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 5, "reason": "لم يتم ضرب العدد المؤكد في التعرفة المثبتة بشكل صحيح"}}
+{"id": "c-0073", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 7, "reason": "إضافة رسم الملف قبل حساب المبلغ"}}
+{"id": "c-0101", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للطلب المقدم."}}
+{"id": "c-0316", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "خطأ في حساب المبلغ قبل الرسوم"}}
+{"id": "c-0390", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "كل الخطوات كانت صحيحة، لكن الخطأ كان في اختيار التعرفة المثبتة، حيث يجب استخدام التعرفة لقطاع الكرخ وليس قطاع الرصافة."}}
+{"id": "c-0098", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة مع المرجع"}}
+{"id": "c-0182", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم العثور على أي خطأ في التحليل"}}
+{"id": "c-0319", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للطلب"}}
+{"id": "c-0321", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لا يوجد خطأ في الخطوات المعروضة، ولكن التعرفة يجب أن تكون حسب قطاع الرصافة وليس الكرخ."}}
+{"id": "h-planning-late-medium-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 1, "reason": "تكسير التعرفة لحساب المبلغ"}}
+{"id": "h-tool-use-late-medium-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم اكتشاف خطأ في الخطوات"}}
+{"id": "h-human-interaction-late-medium-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "استخدام رسم المقعد المسائي بدلاً من رسم المقعد الصباحي"}}
+{"id": "c-0219", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 2, "reason": "Incorrect count taken as 35 instead of the actual quantity requested"}}
+{"id": "c-0399", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات تتطابق مع الطلب، لذا لا يوجد خيال."}}
+{"id": "c-0307", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "الخطوة الصحيحة هي تقديم الجواب بشكل متكامل، وليس استدعاء الأداة بالوسائط المطلوبة."}}
+{"id": "c-0164", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 8, "reason": "إضافة رسم المناولة إلى المبلغ قبل الرسوم بدلاً من حساب المبلغ بعد الرسوم"}}
+{"id": "h-reasoning-late-medium-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 8, "reason": "لم يتم ضرب العدد المؤكد في التعرفة المثبتة"}}
+{"id": "h-human-interaction-mid-short-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 2, "reason": "Incorrect count used"}}
+{"id": "c-0157", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للمرجع"}}
+{"id": "h-retrieval-late-medium-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "رسم الشحن المسجل غير متوافق مع الطلب."}}
+{"id": "h-human-interaction-early-short-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "Incorrect multiplication of price per copy and number of copies"}}
+{"id": "c-0173", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "Incorrect addition of records fee to pre-fee amount"}}
+{"id": "h-human-interaction-early-medium-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 2, "reason": "استيضاح العدد من مسؤول التسجيل بدلاً من عدد المقاعد المثبتة"}}
+{"id": "h-retrieval-late-short-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 5, "reason": "Incorrect addition of records fee instead of evening clinic fee"}}
+{"id": "h-reasoning-late-medium-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 9, "reason": "لم يتم إضافة رسم التسجيل إلى المبلغ قبل الرسوم بشكل صحيح."}}
+{"id": "c-0160", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-planning-mid-short-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 5, "reason": "Incorrect tariff used for calculation"}}
+{"id": "c-0029", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-planning-late-short-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 2, "reason": "Incorrect tariff for North region"}}
+{"id": "h-reasoning-mid-medium-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 6, "reason": "حساب المبلغ قبل الرسوم غير صحيح"}}
+{"id": "h-reasoning-early-medium-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 4, "reason": "حساب النقص خاطئ"}}
+{"id": "h-reasoning-late-medium-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 4, "reason": "تم الضرب في التعرفة المثبتة بدلاً من كلفة الطلب المعتمدة"}}
+{"id": "h-retrieval-early-short-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "No hallucination; the error is in the observation, not the computation."}}
+{"id": "c-0336", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-mid-medium-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "استخدام الرصيد المسترجَع بدلاً من الرصيد المستهدف"}}
+{"id": "c-0447", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-human-interaction-mid-medium-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات صحيحة، الخطأ في البيانات المدخلة وليس في التنفيذ"}}
+{"id": "h-tool-use-late-medium-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 10, "reason": "استخدم الأولوية المطلوبة بدلاً من الأولوية المعتمدة"}}
+{"id": "h-planning-late-medium-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "تحديد سعة الشحنة بناءً على قطاع الرصافة بدلاً من قطاع الكرخ"}}
+{"id": "h-tool-use-late-short-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 6, "reason": "Incorrect addition of shipping fee"}}
+{"id": "h-planning-mid-medium-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 8, "reason": "استخدمت التعرفة الخاطئة 28 بدلاً من 18"}}
+{"id": "h-retrieval-mid-short-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-planning-late-short-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 1, "reason": "Incorrect shipment capacity used (60 instead of 150)"}}
+{"id": "c-0298", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للطلب"}}
+{"id": "h-reasoning-early-medium-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة مع الطلب ولا يوجد اختلاف."}}
+{"id": "h-tool-use-mid-short-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 5, "reason": "shipping fee was not added to the pre-fee amount"}}
+{"id": "c-0332", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "كل الخطوات صحيحة وفقًا للطلب."}}
+{"id": "h-human-interaction-early-medium-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 9, "reason": "استخدم الوسائط غير الصحيحة"}}
+{"id": "c-0184", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 6, "reason": "الخطأ في حساب المبلغ قبل الرسوم"}}
+{"id": "h-tool-use-early-medium-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-retrieval-mid-short-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-human-interaction-mid-short-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 2, "reason": "Count was taken as 3 instead of 30"}}
+{"id": "c-0431", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 5, "reason": "Pre-fee amount should be 405, not 405 due to incorrect multiplication"}}
+{"id": "h-human-interaction-early-medium-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات صحيحة"}}
+{"id": "c-0223", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0108", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 6, "reason": "حساب المبلغ قبل الرسوم غير صحيح"}}
+{"id": "c-0320", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات صحيحة، ولكن الخطأ في التنفيذ في الخطوة 10."}}
+{"id": "h-planning-early-short-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 1, "reason": "Incorrectly used the Rusafa sector cost per request instead of the Karkh sector cost per request."}}
+{"id": "h-human-interaction-early-short-0001", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "Incorrectly adopted the sector officer's figure for the target balance"}}
+{"id": "h-tool-use-late-short-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-reasoning-early-short-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "Incorrect computation of the shortfall"}}
+{"id": "c-0090", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0027", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "كل الخطوات صحيحة، ولكن الخطأ في تقدير عدد الشحنات."}}
+{"id": "h-planning-early-short-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "Incorrectly used cost per request of 35 instead of 45"}}
+{"id": "c-0103", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 5, "reason": "pre-fee amount calculation error"}}
+{"id": "c-0344", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-late-short-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 5, "reason": "Incorrect multiplication of requests and cost per request"}}
+{"id": "c-0444", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 6, "reason": "خطأ في حساب المبلغ قبل الرسوم"}}
+{"id": "c-0376", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات كانت صحيحة بناءً على المعلومات المقدمة في الطلب."}}
+{"id": "h-human-interaction-mid-short-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 4, "reason": "Incorrect multiplication of request count and cost per request"}}
+{"id": "c-0192", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 8, "reason": "خطأ في حساب المبلغ قبل الرسوم"}}
+{"id": "c-0214", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0239", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-reasoning-early-short-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "Incorrect shortfall calculation"}}
+{"id": "c-0038", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات صحيحة"}}
+{"id": "h-retrieval-late-medium-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للطلب ولا يوجد اختلاف"}}
+{"id": "h-reasoning-early-medium-0001", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 4, "reason": "خطأ في حساب المبلغ قبل الرسوم"}}
+{"id": "c-0382", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 11, "reason": "استخدام كلمة 'القناة الحكومية' بدلاً من 'التسوية عبر القناة الحكومية'"}}
+{"id": "c-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم العثور على أي خطأ في الخطوات"}}
+{"id": "c-0033", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 5, "reason": "Used incorrect unit cost for North region"}}
+{"id": "c-0340", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "الخطوة 12 صاغت الجواب بشكل صحيح، ولكن الوكيل أنتج كائن JSON بدلاً من ذلك."}}
+{"id": "h-planning-mid-medium-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 3, "reason": "كلفة الوحدة غير صحيحة لعدم وجود خصم لمنطقة الشمالية"}}
+{"id": "h-retrieval-early-long-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 5, "reason": "إضافة رسم الملف غير متعلق بالعيادة الصباحية"}}
+{"id": "c-0037", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 10, "reason": "لم يتم خصم رسم المناولة من المبلغ قبل الرسوم"}}
+{"id": "h-tool-use-late-medium-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم العثور على أي خطأ في الخطوات المذكورة."}}
+{"id": "c-0196", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة مع الطلب"}}
+{"id": "c-0151", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للطلب"}}
+{"id": "h-reasoning-late-medium-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم العثور على أي خطأ في الخطوات المذكورة"}}
+{"id": "h-reasoning-mid-medium-0001", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 10, "reason": "استخدام عدد المقاعد المسائي بدلاً من الصباحي"}}
+{"id": "c-0199", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-tool-use-mid-short-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "Incorrect priority used in the request"}}
+{"id": "h-human-interaction-early-medium-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم العثور على أي خطأ في الخطوات المذكورة."}}
+{"id": "c-0353", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم العثور على أي خطأ في الخطوات"}}
+{"id": "c-0249", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-retrieval-mid-medium-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات صحيحة بناءً على المعلومات الواردة في الطلب."}}
+{"id": "h-retrieval-mid-medium-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم العثور على أي خطأ في الخطوات"}}
+{"id": "c-0057", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-planning-early-medium-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للطلب"}}
+{"id": "c-0093", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للطلب"}}
+{"id": "c-0369", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 9, "reason": "فحص صيغة التاريخ مرتين"}}
+{"id": "h-tool-use-early-long-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة مع الطلب"}}
+{"id": "h-planning-early-medium-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 9, "reason": "عدد الشحنات غير صحيح، يجب تقسيم النقص على سعة الشحنة الصباحية وتقريب النتيجة للأعلى."}}
+{"id": "c-0152", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "No hallucination; the error was in the calculation but not in following the reference numbers or rules."}}
+{"id": "h-tool-use-early-medium-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات صحيحة ولا يوجد خطأ"}}
+{"id": "h-planning-mid-medium-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "تم تحديد سعة الشحنة المسائية بدلاً من الصباحية"}}
+{"id": "c-0061", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0433", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 8, "reason": "حساب المبلغ قبل الرسوم غير صحيح، يجب إضافة رسم الملف."}}
+{"id": "c-0255", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0020", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لا يوجد خطأ في الخطوات، ولكن عدد الشحنات يحتاج إلى تصحيح."}}
+{"id": "h-reasoning-mid-medium-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "حساب النقص غير صحيح"}}
+{"id": "c-0194", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0418", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات متطابقة مع المرجع"}}
+{"id": "c-0063", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 9, "reason": "المiscalculation of the total amount before fees"}}
+{"id": "c-0391", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 7, "reason": "Incorrect addition of registration fee to pre-fee amount"}}
+{"id": "c-0326", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 8, "reason": "استخدام كلفة الطلب في قطاع الرصافة بدلاً من قطاع الكرخ"}}
+{"id": "c-0040", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0046", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-reasoning-late-short-0001", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "Incorrect computation of shortfall (280 instead of 820)."}}
+{"id": "h-tool-use-late-short-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0124", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0055", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-retrieval-late-short-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0276", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0278", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "Incorrect addition of registration fee to pre-fee amount"}}
+{"id": "c-0229", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "كل الخطوات صحيحة، الخطأ في الحساب فقط"}}
+{"id": "c-0048", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0112", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم العثور على أي خطأ في العملية"}}
+{"id": "c-0230", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم العثور على أي خطأ في الخطوات"}}
+{"id": "c-0060", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "كل الخطوات صحيحة، ولكن الخطوة 7 تحتاج إلى تصحيح لتجنب الخطأ."}}
+{"id": "c-0309", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0201", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-retrieval-mid-short-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 4, "reason": "Incorrect calculation of shortfall"}}
+{"id": "h-tool-use-mid-long-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات صحيحة، الخطأ في الخطوة 7 حيث لم يتم أضافة رسم الملف إلى المبلغ قبل حساب الإجمالي."}}
+{"id": "c-0437", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 6, "reason": "Incorrect multiplication of seats and fee per seat"}}
+{"id": "h-reasoning-mid-long-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 7, "reason": "حساب المبلغ قبل الرسوم غير صحيح"}}
+{"id": "h-planning-mid-short-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 2, "reason": "Incorrect tariff set to 20 instead of 30"}}
+{"id": "c-0200", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات صحيحة، الخطأ في الحساب فقط"}}
+{"id": "c-0398", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 3, "reason": "استخدام رسم الموعد في عيادة المساء بدلاً من عيادة الصباح"}}
+{"id": "h-human-interaction-early-long-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 3, "reason": "خطأ في تحديد الرقم المستهدف"}}
+{"id": "h-reasoning-mid-long-0001", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للطلب"}}
+{"id": "c-0044", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-mid-short-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "Incorrect calculation of shortfall"}}
+{"id": "c-0292", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للمرجعيات المذكورة في الطلب."}}
+{"id": "h-reasoning-early-long-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للمرجع"}}
+{"id": "c-0177", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "كل الخطوات صحيحة، ولكن الخطأ في الخطوة [10] حيث تم إضافة رسم الشحن بدلاً من ضرب العدد المؤكد في التعرفة المثبتة."}}
+{"id": "c-0226", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 11, "reason": "إضافة رسم المناولة بدون خصم الوحدة"}}
+{"id": "h-reasoning-mid-short-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-tool-use-mid-short-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-human-interaction-late-short-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0282", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0425", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات متطابقة مع الطلب"}}
+{"id": "h-tool-use-mid-long-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 9, "reason": "استخدم الأولوية المطلوبة بدلاً من الأولوية المحددة في الطلب"}}
+{"id": "h-reasoning-mid-long-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "كل الخطوات صحيحة وفقًا للطلب"}}
+{"id": "h-retrieval-late-long-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم العثور على أي خطأ في الخطوات"}}
+{"id": "h-reasoning-late-long-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 10, "reason": "حساب النقص خاطئ"}}
+{"id": "c-0159", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات صحيحة، ولكن الخطوة 8 تحتاج إلى تصحيح لحساب النقص بشكل صحيح."}}
+{"id": "c-0413", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للبيانات الواردة في الطلب."}}
+{"id": "c-0128", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0338", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للطلب"}}
+{"id": "h-reasoning-mid-long-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 7, "reason": "حساب المبلغ قبل الرسوم غير صحيح"}}
+{"id": "c-0257", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "No hallucination detected; all steps followed the logic correctly."}}
+{"id": "h-reasoning-early-long-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للمعلومات المطلوبة من الطلب."}}
+{"id": "c-0083", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 3, "reason": "لم يتم الأخذ في الاعتبار سعة الشحنة المسائية في حساب عدد الشحنات"}}
+{"id": "h-retrieval-late-long-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 10, "reason": "حساب المبلغ قبل الرسوم غير صحيح"}}
+{"id": "c-0245", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة مع الطلب"}}
+{"id": "c-0197", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة مع المرجعيات المذكورة في الطلب"}}
+{"id": "h-human-interaction-mid-medium-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 7, "reason": "used incorrect count"}}
+{"id": "h-tool-use-late-long-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 8, "reason": "استخدام الرقم الخاطئ 58 بدلاً من 45 في حساب المبلغ قبل الرسوم"}}
+{"id": "c-0349", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم اكتشاف خطأ في الخطوات"}}
+{"id": "h-human-interaction-late-long-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 9, "reason": "استعلام رسم المناولة مرة أخرى بدلاً من استخدام القيمة المسجلة"}}
+{"id": "h-human-interaction-late-long-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم العثور على أي خطأ في الخطوات"}}
+{"id": "h-planning-early-long-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 1, "reason": "تحديد سعة الشحنة المعتمدة لعيادة الصباح بشكل خاطئ"}}
+{"id": "c-0355", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-planning-late-short-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "Incorrect shipment capacity used (150 instead of 40)."}}
+{"id": "h-human-interaction-early-medium-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 2, "reason": "Incorrect appointment count used"}}
+{"id": "c-0132", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0419", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-retrieval-early-medium-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 3, "reason": "Incorrect records fee lookup"}}
+{"id": "h-reasoning-late-short-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 6, "reason": "Incorrect shortfall calculation"}}
+{"id": "h-human-interaction-late-long-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "عدد النسخ المثبت في الطلب (21) غير متوافق مع العدد المذكور من أمين المكتبة (12)"}}
+{"id": "c-0303", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0171", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "كل الخطوات صحيحة، ولكن الخطوة 8 يجب أن تكون 135 * 9 = 180"}}
+{"id": "c-0047", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "استخدم التعرفة المثبتة بدلاً من التعرفة المعتمدة"}}
+{"id": "c-0122", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لا خطأ في الخطوات، ولكن يمكن إلغاء الخطوات المتكررة لتحسين العملية."}}
+{"id": "h-retrieval-mid-short-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "The observed value from the library catalogue (43) does not match the reference (34)."}}
+{"id": "h-retrieval-mid-short-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "Incorrect shortfall calculation due to using the wrong initial inventory count."}}
+{"id": "h-reasoning-early-medium-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "Incorrect multiplication of count and unit cost"}}
+{"id": "c-0130", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0021", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم العثور على أي خطأ في الخطوات"}}
+{"id": "h-human-interaction-late-short-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-tool-use-mid-medium-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "incorrect channel name"}}
+{"id": "h-planning-late-long-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "سعر النسخة المعتمدة غير صحيح، يجب أن يكون 25 لفرع الكلية."}}
+{"id": "h-tool-use-late-long-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-early-short-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "No hallucinations identified."}}
+{"id": "h-retrieval-mid-short-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "Enrolment record returned 13 seats instead of 31."}}
+{"id": "h-human-interaction-mid-long-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "عدد المواعيد المثبتة غير مطابق للطلب"}}
+{"id": "h-tool-use-early-short-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-tool-use-late-long-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 11, "reason": "النقص يجب أن يكون 380 موعد وليس 380."}}
+{"id": "c-0274", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 10, "reason": "لم يتم استخدام سعة الشحنة المركزي في حساب عدد الشحنات"}}
+{"id": "h-tool-use-mid-long-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للمواصفات المطلوبة"}}
+{"id": "c-0348", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم العثور على أي خطأ في الخطوات"}}
+{"id": "c-0265", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة مع الطلب"}}
+{"id": "c-0153", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "No explicit indication of varying fees among appointments, so the calculation is based on the given information."}}
+{"id": "c-0388", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0254", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 14, "reason": "استدعاء الأداة بدلاً من تقديم الجواب النهائي"}}
+{"id": "c-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0404", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "كل الخطوات صحيحة باستثناء الخطوة 13 حيث تم إضافة رسم التسجيل بدلاً من حساب الرسوم الكلية بشكل صحيح."}}
+{"id": "h-planning-early-long-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 1, "reason": "تم تحديد كلفة الوحدة في الخطوة الأولى بشكل خاطئ"}}
+{"id": "c-0034", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم العثور على أخطاء في الخطوات المقدمة."}}
+{"id": "c-0380", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات متطابقة مع الطلب المقدم"}}
+{"id": "h-retrieval-early-medium-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 3, "reason": "Used recorded registration fee instead of filed request fee"}}
+{"id": "c-0405", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0267", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة مع الطلب"}}
+{"id": "h-tool-use-late-long-0001", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للمرجع"}}
+{"id": "c-0163", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للطلب المقدم"}}
+{"id": "c-0362", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-reasoning-early-long-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لا خطأ في الخطوات، ولكن الخطوة 6 غير ضرورية وتفتح مجال للشك."}}
+{"id": "h-planning-early-long-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 8, "reason": "استخدام التعرفة المثبتة بدلاً من رسم المقعد للدراسة الصباحية"}}
+{"id": "h-tool-use-mid-short-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "Incorrect priority value used in the request."}}
+{"id": "c-0136", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0094", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات كانت صحيحة، ولكن عدد الشحنات كان خاطئاً بسبب استخدام سعة الشحنة الخاطئة."}}
+{"id": "h-human-interaction-late-long-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "كل الخطوات كانت صحيحة بناءً على المعلومات المتاحة، ولكن الرقم المستهدف كان خاطئًا في الطلب الأصلي."}}
+{"id": "h-reasoning-early-medium-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "Incorrect multiplication of appointments and fee"}}
+{"id": "c-0019", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 11, "reason": "تقريب النسبة المئوية للأعلى خاطئ"}}
+{"id": "h-retrieval-mid-long-0001", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للطلب ولا يوجد اختلاف"}}
+{"id": "c-0316", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-early-long-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للمرجع"}}
+{"id": "c-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "The final answer does not indicate the settlement through insurance."}}
+{"id": "c-0053", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-retrieval-mid-long-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 14, "reason": "تم تقديم النتيجة بشكل غير صحيح، يجب تقديم النقص، عدد الشحنات، والأولوية ضمن JSON."}}
+{"id": "h-planning-mid-long-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات صحيحة، لم يتم اكتشاف خطأ."}}
+{"id": "c-0160", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-retrieval-late-long-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "كل الخطوات كانت صحيحة بناءً على المعلومات المعطاة في الطلب."}}
+{"id": "h-planning-late-medium-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "Incorrectly fixed the tariff to 35 instead of 22 for the North region"}}
+{"id": "h-retrieval-late-medium-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0352", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للمرجعيات الواردة في الطلب."}}
+{"id": "c-0264", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم العثور على أي خطأ في الخطوات"}}
+{"id": "h-reasoning-early-long-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 4, "reason": "خطأ في حساب المبلغ قبل الرسوم"}}
+{"id": "c-0164", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-planning-late-long-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "سعر النسخة المعتمد في الطلب هو 50 وليس 45."}}
+{"id": "h-planning-early-long-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 7, "reason": "حساب المبلغ قبل الرسوم غير صحيح"}}
+{"id": "h-human-interaction-late-medium-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "Incorrect count of 41 instead of 14"}}
+{"id": "c-0290", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0227", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للطلب"}}
+{"id": "c-0243", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0209", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "No discrepancies found in the steps."}}
+{"id": "c-0359", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 10, "reason": "لم يتم ضرب العدد المؤكَّد في التعرفة المثبتة"}}
+{"id": "c-0399", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 8, "reason": "registration fee was incorrectly added to the pre-fee amount"}}
+{"id": "c-0213", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 13, "reason": "استخدم الوسيلة بدلاً من ميزانية الكلية"}}
+{"id": "c-0127", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0252", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم العثور على اختلافات بين الخطوات والطلب."}}
+{"id": "h-planning-mid-medium-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 3, "reason": "Incorrect unit cost used"}}
+{"id": "h-planning-late-medium-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "Incorrectly setting the morning clinic fee to 28 instead of 30"}}
+{"id": "h-reasoning-mid-medium-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 6, "reason": "Incorrect multiplication of count by unit cost"}}
+{"id": "c-0073", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0098", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-human-interaction-mid-medium-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 7, "reason": "Incorrect count confirmation"}}
+{"id": "h-human-interaction-early-medium-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 2, "reason": "Incorrect confirmation of seat count"}}
+{"id": "h-reasoning-late-medium-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 6, "reason": "Total calculation error"}}
+{"id": "c-0441", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للطلب"}}
+{"id": "h-retrieval-early-long-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 3, "reason": "استعلام عن رسم المعاينة كان غير صحيح"}}
+{"id": "c-0119", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "كل الخطوات صحيحة، الخطأ في الحساب وليس في تنفيذ الخطوات"}}
+{"id": "c-0235", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0082", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-tool-use-early-long-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 4, "reason": "خطأ في حساب المبلغ قبل الرسوم"}}
+{"id": "c-0295", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم العثور على أي خطأ في الخطوات"}}
+{"id": "c-0101", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-human-interaction-late-medium-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 3, "reason": "Incorrect registration fee used"}}
+{"id": "h-retrieval-mid-long-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 11, "reason": "لم يتم ضم قيمة رسم الملف المسجّل بشكل صحيح"}}
+{"id": "c-0319", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 8, "reason": "registration fee was added twice"}}
+{"id": "h-planning-mid-long-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "سعر النسخة في فرع الكلية يجب أن يكون 30 وليس 28."}}
+{"id": "c-0195", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 12, "reason": "لم يتم إضافة رسم التسجيل المسجل (49) إلى المبلغ"}}
+{"id": "h-human-interaction-late-long-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-planning-late-long-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "تم تثبيت سعر النسخة على 12 بدلاً من 18"}}
+{"id": "h-reasoning-mid-long-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "حساب النقص غير صحيح"}}
+{"id": "c-0304", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم العثور على خطأ في الحسابات"}}
+{"id": "h-reasoning-late-medium-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 9, "reason": "incorrect addition of registration fee to pre-fee amount"}}
+{"id": "h-retrieval-late-medium-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 7, "reason": "shipping fee observed as 5 instead of 6"}}
+{"id": "c-0390", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "All steps align with the provided information."}}
+{"id": "c-0089", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 11, "reason": "عدد الشحنات غير صحيح، يجب أن يكون تقريبًا للأعلى من النقص"}}
+{"id": "h-planning-early-medium-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "No errors found in the reasoning process."}}
+{"id": "h-human-interaction-late-long-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات كانت صحيحة، ولكن الخطأ في الحساب كان بسبب استخدام سعة الشحنة الصباحية بدلاً من الرقم المستهدف من مسؤول التسجيل."}}
+{"id": "c-0182", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 2, "reason": "Incorrect tariff for Karkh sector"}}
+{"id": "h-retrieval-early-long-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "رسم الملف غير صحيح، يجب أن يكون 47"}}
+{"id": "c-0141", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "كل الخطوات صحيحة، الخطأ في استخدام سعة الشحنة في عيادة الصباح بدلاً من عيادة المساء"}}
+{"id": "c-0351", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-tool-use-mid-long-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للطلب، الخطأ في الخطوة 10 فقط"}}
+{"id": "c-0157", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 9, "reason": "pre-fee amount was not correctly calculated"}}
+{"id": "c-0402", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للطلب"}}
+{"id": "c-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لم يتم اكتشاف خطأ في الخطوات، ولكن يمكن تحسين تحديد سعة الشحنة لعيادة المساء."}}
+{"id": "h-planning-late-long-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "الجواب النهائي غير صحيح"}}
+{"id": "c-0038", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0321", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "No discrepancies found between steps and query."}}
+{"id": "c-0193", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات صحيحة، لم يتم اكتشاف خطأ."}}
+{"id": "c-0223", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "No discrepancy found between steps and query."}}
+{"id": "c-0131", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-reasoning-late-long-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 12, "reason": "حساب النقص خاطئ"}}
+{"id": "c-0358", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 8, "reason": "عدد الشحنات يجب أن يكون تقريبًا 6، وليس 6 بالضبط."}}
+{"id": "h-tool-use-late-medium-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "All steps align with the query and calculations are accurate."}}
+{"id": "c-0232", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للطلب"}}
+{"id": "c-0332", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "registration fee was incorrectly included in the total"}}
+{"id": "c-0129", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "استخدم الرصيد المستهدف بدلاً من الرصيد المسترجَع"}}
+{"id": "c-0444", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-late-medium-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-human-interaction-early-medium-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "Incorrect shortfall calculation"}}
+{"id": "c-0307", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-retrieval-early-long-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "رسم المناولة المسجل غير مطابق للطلب"}}
+{"id": "h-tool-use-early-medium-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 6, "reason": "Incorrect channel specified"}}
+{"id": "c-0261", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "الخطأ في الخطوة الأخيرة حيث تم تقديم الجواب بدلاً من إنشاء الطلب."}}
+{"id": "c-0108", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "No hallucination detected; the calculation appears correct based on the provided information."}}
+{"id": "c-0151", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 6, "reason": "incorrect tariff application"}}
+{"id": "h-reasoning-mid-long-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "حساب عدد الشحنات"}}
+{"id": "h-planning-mid-medium-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "Incorrect unit cost used"}}
+{"id": "h-reasoning-early-medium-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "Incorrect computation of shortfall"}}
+{"id": "h-reasoning-early-medium-0001", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-reasoning-early-long-0001", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 4, "reason": "حساب النقص خاطئ، يجب أن يكون 268 بدلاً من 286"}}
+{"id": "c-0196", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "Incorrect multiplication of count and unit cost"}}
+{"id": "c-0184", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-tool-use-late-medium-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0037", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "No discrepancies found between the query and the steps taken."}}
+{"id": "c-0320", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-human-interaction-mid-medium-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0027", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "No hallucination detected; all steps followed the reference rules correctly."}}
+{"id": "c-0192", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0382", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "Incorrect pre-fee amount calculation"}}
+{"id": "c-0298", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-planning-late-medium-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "Incorrect per-shipment capacity used"}}
+{"id": "c-0379", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "جميع الخطوات مطابقة للطلب"}}
+{"id": "c-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "No error found in the computation or steps."}}
+{"id": "h-reasoning-early-medium-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 4, "reason": "Incorrect shortfall calculation"}}
+{"id": "c-0376", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "Assumed all appointments are in the morning clinic, but this is not specified in the query."}}
+{"id": "c-0226", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "All steps and values match the query."}}
+{"id": "h-human-interaction-early-medium-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "Incorrectly computed the shortfall as 174 instead of 111."}}
+{"id": "h-reasoning-mid-medium-0001", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 6, "reason": "Incorrect multiplication of seats and fee per seat"}}
+{"id": "c-0093", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-retrieval-early-long-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-tool-use-late-medium-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-retrieval-mid-medium-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "Incorrect computation of shortfall"}}
+{"id": "h-reasoning-late-medium-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "Incorrect computation of shortfall"}}
+{"id": "h-tool-use-early-long-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "Calculation of pre-fee amount was correct but not reflected in the final total."}}
+{"id": "c-0200", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0229", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 10, "reason": "Total should be pre-fee amount plus recorded fee minus the fee settled through insurance"}}
+{"id": "h-reasoning-mid-long-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 6, "reason": "Pre-fee amount calculation error"}}
+{"id": "c-0413", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-planning-early-medium-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "Incorrectly used evening programme's per-shipment capacity instead of morning programme's."}}
+{"id": "h-tool-use-mid-long-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "Records fee was incorrectly added to the pre-fee amount."}}
+{"id": "c-0398", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "used the evening clinic fee instead of the morning clinic fee"}}
+{"id": "h-planning-mid-medium-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 3, "reason": "Incorrectly used 60 seat capacity instead of 150 seat capacity for the morning programme."}}
+{"id": "h-retrieval-late-medium-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0433", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 12, "reason": "Incorrectly computed the pre-fee amount without considering the insurance settlement"}}
+{"id": "c-0338", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0063", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-planning-early-medium-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "Incorrectly calculated the number of shipments based on the morning programme's capacity instead of the evening programme's capacity."}}
+{"id": "h-retrieval-late-long-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 9, "reason": "incorrect registration fee lookup"}}
+{"id": "h-reasoning-early-long-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 6, "reason": "pre-fee amount calculation error"}}
+{"id": "h-tool-use-early-medium-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "Incorrect priority value used in the request."}}
+{"id": "c-0418", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 10, "reason": "Adding the recorded records fee instead of subtracting it"}}
+{"id": "h-human-interaction-late-long-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "No hallucination; the error was in the initial data provided, not in the calculation process."}}
+{"id": "c-0349", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 9, "reason": "Handling fee was added after the pre-fee amount was calculated, instead of being included in the initial calculation."}}
+{"id": "c-0060", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-mid-medium-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0230", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 9, "reason": "The number of shipments was incorrectly calculated as 3 instead of 3."}}
+{"id": "h-tool-use-late-long-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 10, "reason": "registration fee added to pre-fee amount and channel specified incorrectly"}}
+{"id": "c-0326", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 10, "reason": "Arithmetic error in total computation"}}
+{"id": "c-0340", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0112", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0369", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0177", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "All steps align with the query and calculations are accurate."}}
+{"id": "h-reasoning-mid-long-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 5, "reason": "Incorrect addition of registration fee"}}
+{"id": "c-0020", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0171", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0425", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "No error identified in the steps; the final answer matches the query."}}
+{"id": "h-reasoning-mid-long-0001", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "Incorrect multiplication of requests and cost per request"}}
+{"id": "c-0292", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-retrieval-mid-medium-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0122", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-human-interaction-early-medium-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0404", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 6, "reason": "registration fee of 77 is incorrectly attributed to the morning programme"}}
+{"id": "c-0353", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "Shortfall calculation uses last audited count instead of target balance."}}
+{"id": "h-reasoning-early-long-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 4, "reason": "Incorrect computation of shortfall"}}
+{"id": "c-0355", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0265", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-reasoning-mid-long-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "No specific error in the steps, but the final answer assumes the inclusion of the records fee in the total, which may not be the intended interpretation."}}
+{"id": "c-0083", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-tool-use-late-long-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "Incorrect calculation of pre-fee amount due to wrong price per copy"}}
+{"id": "h-planning-early-long-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 9, "reason": "used incorrect unit cost"}}
+{"id": "c-0245", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0047", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 7, "reason": "Pre-fee amount should be 704, not 704."}}
+{"id": "c-0163", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-planning-late-long-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 11, "reason": "Incorrect price per copy used for calculation"}}
+{"id": "h-tool-use-mid-long-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 9, "reason": "priority set to 4 instead of 2"}}
+{"id": "h-reasoning-late-long-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 10, "reason": "Shortfall was incorrectly calculated as 156 units instead of 165 units."}}
+{"id": "h-human-interaction-late-long-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 11, "reason": "Incorrect number of copies used in calculation"}}
+{"id": "c-0021", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-human-interaction-early-long-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "Sector officer provided incorrect target figure of 29 instead of 209."}}
+{"id": "c-0034", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "registration fee incorrectly added to pre-fee amount"}}
+{"id": "h-human-interaction-late-long-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0130", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "No hallucination; the calculation was correct but the interpretation of the query was not fully clear."}}
+{"id": "c-0267", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0159", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-planning-late-long-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "Incorrect price per copy used for faculty branch"}}
+{"id": "h-human-interaction-late-long-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-retrieval-late-long-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "Shortfall calculation uses current booking count instead of last audited count."}}
+{"id": "h-planning-early-long-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 2, "reason": "Incorrect fee per seat used for calculation"}}
+{"id": "c-0388", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 12, "reason": "inspection fee incorrectly added to pre-fee amount"}}
+{"id": "h-planning-early-long-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0197", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "No hallucination detected; all steps logically follow the query."}}
+{"id": "h-human-interaction-mid-long-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 5, "reason": "The count was incorrectly taken as 52 instead of 25 as confirmed by the clinic coordinator."}}
+{"id": "c-0348", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-reasoning-early-long-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0359", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0213", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "No hallucination, but step [7] could be clearer."}}
+{"id": "h-reasoning-early-long-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 4, "reason": "Incorrect multiplication result"}}
+{"id": "h-planning-early-long-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "No hallucination occurred; the error was identified and corrected."}}
+{"id": "c-0119", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-planning-mid-long-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "Incorrect price per copy set to 28 instead of 30"}}
+{"id": "c-0019", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0441", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "No error identified; all steps followed the query correctly."}}
+{"id": "c-0195", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 6, "reason": "incorrectly used the recorded registration fee instead of the correct pre-fee amount"}}
+{"id": "h-tool-use-late-long-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 12, "reason": "priority set to 1 instead of 2"}}
+{"id": "h-planning-mid-long-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 4, "reason": "Incorrectly established shipment capacity as 150 seats instead of 75 seats for the morning programme."}}
+{"id": "c-0252", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "used recorded registration fee instead of calculated fee"}}
+{"id": "h-tool-use-late-long-0001", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-tool-use-early-long-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-retrieval-early-long-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 7, "reason": "Incorrect addition of inspection fee"}}
+{"id": "c-0274", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0094", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0227", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-late-long-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0295", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 11, "reason": "Registration fee was incorrectly added to the pre-fee amount instead of being part of the total."}}
+{"id": "h-retrieval-mid-long-0001", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-planning-late-long-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 9, "reason": "incorrect price per copy"}}
+{"id": "h-retrieval-late-long-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "Incorrectly used the reported count (97) instead of the last audited count (79) for the shortfall calculation."}}
+{"id": "h-human-interaction-early-long-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0380", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 11, "reason": "Incorrect shipment capacity used; should be based on evening clinic's capacity."}}
+{"id": "h-tool-use-mid-long-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 7, "reason": "priority set to 4 instead of 3"}}
+{"id": "c-0254", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "shortfall calculation is correct, but shipment count should be based on reaching the target balance"}}
+{"id": "c-0264", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-reasoning-late-long-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 12, "reason": "Incorrect computation of shortfall"}}
+{"id": "h-retrieval-early-long-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "incorrect handling fee lookup"}}
+{"id": "c-0089", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-retrieval-mid-long-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "queried fee does not match the recorded fee in the query"}}
+{"id": "c-0304", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0352", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-retrieval-mid-long-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "Shortfall calculation uses incorrect audited count."}}
+{"id": "h-retrieval-early-long-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 13, "reason": "Incorrect addition of records fee"}}
+{"id": "h-human-interaction-late-long-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-reasoning-mid-long-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0358", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-planning-late-long-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-reasoning-mid-long-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "Incorrect shortfall calculation"}}
+{"id": "c-0193", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0402", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-reasoning-early-long-0001", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0129", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0141", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0232", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 11, "reason": "Incorrect rounding up of 294/40"}}
+{"id": "c-0261", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-tool-use-mid-long-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 9, "reason": "Rounding up instead of rounding down"}}
+{"id": "c-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 13, "reason": "Number of shipments should be 4, not 3."}}
+{"id": "c-0379", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
