@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite it as below."
+title: "ArabAgentHallu: A Bilingual Arabic-English Benchmark for Hallucination Judgment and Attribution in LLM-based Agents"
+authors:
+  - family-names: "YOUR-FAMILY-NAME"
+    given-names: "YOUR-GIVEN-NAME"
+    affiliation: "YOUR-AFFILIATION"
+version: 0.7.0
+date-released: 2026-08-25
+license: MIT
+repository-code: "https://github.com/YOUR_USERNAME/ArabAgentHallu"
+keywords:
+  - hallucination
+  - LLM agents
+  - Arabic NLP
+  - benchmark
+  - attribution
