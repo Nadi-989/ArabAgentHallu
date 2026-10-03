@@ -1,0 +1,600 @@
+{"id": "h-retrieval-early-short-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0325", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-retrieval-late-short-0001", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "خطوة 4: أضرب العدد المؤكَّد في التعرفة المثبتة. العدد المؤكد هو 18، التعرفة المثبتة هي 35، المبلغ قبل الرسوم يجب أن يكون 630، وليس 450."}}
+{"id": "c-0285", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-reasoning-late-short-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-reasoning-early-short-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0246", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0233", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0081", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0318", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-tool-use-late-short-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-reasoning-early-short-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0039", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-retrieval-late-short-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "خطأ في حساب المبلغ قبل الرسوم، حيث تم استخدام رسم المناولة المسجل 78 بدلاً من 87"}}
+{"id": "h-reasoning-late-short-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0426", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0216", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-human-interaction-early-short-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0029", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-early-short-0001", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-tool-use-late-short-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-reasoning-early-short-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لا توجد هلوسة"}}
+{"id": "c-0090", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0214", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0239", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-reasoning-early-short-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0447", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-retrieval-mid-short-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "الخطوة 4: أعتمد الرقم الذي ذكره مسؤول التسجيل وأطرح منه الرصيد المسترجَع. في هذه الخطوة، يعتمد الوكيل الرقم المستهدف من مسؤول التسجيل، والذي هو 378، ثم يطرح منه الرصيد الحالي، والذي هو 85. الناتج هو 293. ومع ذلك، إذا كان الرصيد الحالي 58، وليس 85، فإن الناتج سيكون 320، وليس 293. لذلك، يعتبر هذا الخطوة مسؤولة عن الخلط."}}
+{"id": "h-planning-late-short-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-retrieval-mid-short-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 2, "reason": "خطأ في الرصيد الحالي في الخطوة 2، يجب أن يكون الرصيد الحالي 88، وليس 89."}}
+{"id": "h-retrieval-early-short-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "خطوة 5: المبلغ قبل الرسوم = 374، حيث أن العدد المؤكد هو 17، ورسام الموعد المعتمدة هو 22، ورسام الملف المثبت هو 47، وبالتالي الإجمالي قبل الرسوم يجب أن يكون 17*22+47=419، وليس 374."}}
+{"id": "c-0336", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0173", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-retrieval-late-short-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-tool-use-late-short-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-tool-use-mid-short-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-human-interaction-early-short-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-reasoning-late-short-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0344", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-human-interaction-mid-short-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-planning-early-short-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-planning-early-short-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-human-interaction-mid-short-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0431", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0103", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-planning-late-short-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-tool-use-mid-short-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0309", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-human-interaction-mid-short-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0046", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0219", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0201", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-retrieval-mid-short-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-planning-mid-short-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 1, "reason": "خطوة 1: تثبيت التعرفة حسب النطاق، حيث تم تثبيت كلفة الوحدة المعتمدة على المنطقة الجنوبية بدلاً من المنطقة الشمالية."}}
+{"id": "h-retrieval-late-short-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0040", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0128", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0257", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-reasoning-mid-short-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-tool-use-late-short-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0057", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0282", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0255", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-tool-use-mid-short-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-human-interaction-late-short-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0199", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-reasoning-late-short-0001", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0276", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-reasoning-mid-short-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0249", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0061", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0124", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0044", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0055", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0048", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-planning-mid-short-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0391", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0194", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0437", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-reasoning-late-short-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0033", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-tool-use-early-short-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0278", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-planning-late-short-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-human-interaction-early-short-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0362", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0419", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-tool-use-mid-short-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0152", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-retrieval-mid-short-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-retrieval-early-medium-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-retrieval-mid-short-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لا توجد هلوسة"}}
+{"id": "h-human-interaction-late-short-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0132", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0303", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-human-interaction-early-medium-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-human-interaction-mid-medium-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-retrieval-mid-short-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0153", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0405", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-tool-use-mid-medium-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0136", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0290", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-tool-use-late-short-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "incorrect settlement channel"}}
+{"id": "h-retrieval-early-medium-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0351", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-reasoning-early-medium-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-planning-early-medium-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0209", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0127", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-human-interaction-late-medium-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0131", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0039", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "incorrect unit cost assumption"}}
+{"id": "h-planning-late-medium-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-retrieval-late-short-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "incorrect handling fee value"}}
+{"id": "h-retrieval-late-medium-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-reasoning-late-short-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "incorrect assumption of handling fee for the North region"}}
+{"id": "h-retrieval-late-short-0001", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "incorrect shipping fee"}}
+{"id": "c-0285", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "incorrect calculation of pre-fee amount"}}
+{"id": "c-0243", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0053", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-retrieval-early-short-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "incorrect records fee used"}}
+{"id": "c-0325", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "incorrect tariff used"}}
+{"id": "h-reasoning-early-medium-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0235", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0082", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0073", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0101", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0316", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0390", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0098", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-reasoning-early-short-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "incorrect calculation of pre-fee amount"}}
+{"id": "c-0426", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 1, "reason": "wrong assumption about the default programme"}}
+{"id": "c-0216", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "none"}}
+{"id": "h-human-interaction-early-short-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "incorrect multiplication of confirmed count by fixed tariff"}}
+{"id": "c-0182", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0319", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0321", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-planning-late-medium-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-tool-use-late-medium-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-human-interaction-late-medium-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-reasoning-late-short-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 2, "reason": "assumption of sector applicability"}}
+{"id": "h-reasoning-early-short-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "using the wrong tariff"}}
+{"id": "c-0246", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "assumed tariff is per sector instead of per request"}}
+{"id": "c-0233", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "incorrect tariff assumption"}}
+{"id": "c-0399", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0307", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0164", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0081", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "incorrect assumption about the applicable tariff"}}
+{"id": "c-0318", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "incorrect tariff used"}}
+{"id": "h-reasoning-late-medium-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0157", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-retrieval-late-medium-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-human-interaction-early-medium-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-reasoning-late-medium-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0160", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-reasoning-mid-medium-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-reasoning-early-medium-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-reasoning-late-medium-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-human-interaction-mid-medium-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-human-interaction-mid-medium-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-tool-use-late-medium-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-planning-late-medium-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-planning-mid-medium-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0298", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-reasoning-early-medium-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0332", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-human-interaction-early-medium-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0184", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-tool-use-early-medium-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0219", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "incorrect unit cost used"}}
+{"id": "h-human-interaction-early-medium-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0223", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0108", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0320", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-human-interaction-mid-short-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 2, "reason": "incorrect count confirmation"}}
+{"id": "h-human-interaction-early-short-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "incorrect count used in calculation"}}
+{"id": "c-0173", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "incorrect assumption about the per-appointment fee"}}
+{"id": "c-0027", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-retrieval-late-short-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "incorrect recorded records fee"}}
+{"id": "h-planning-mid-short-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 1, "reason": "applicable unit cost incorrectly set to 50"}}
+{"id": "c-0029", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "wrong shipment capacity used"}}
+{"id": "h-planning-late-short-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 2, "reason": "fixed tariff to incorrect value"}}
+{"id": "h-retrieval-early-short-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "incorrect records fee"}}
+{"id": "c-0336", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0444", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0447", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0376", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-tool-use-late-short-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "arithmetic error in calculation"}}
+{"id": "h-retrieval-mid-short-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 2, "reason": "incorrect enrolment record retrieval"}}
+{"id": "h-planning-late-short-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "wrong shipment capacity used"}}
+{"id": "h-tool-use-mid-short-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "no hallucination, but incorrect assumption about the price per copy"}}
+{"id": "c-0192", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-retrieval-mid-short-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "incorrect calculation of shipments"}}
+{"id": "h-human-interaction-mid-short-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 2, "reason": "incorrect count confirmation"}}
+{"id": "c-0431", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "incorrectly added registration fee to pre-fee amount"}}
+{"id": "h-planning-early-short-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 1, "reason": "incorrect assumption about the cost per request"}}
+{"id": "h-human-interaction-early-short-0001", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "incorrect target figure"}}
+{"id": "h-tool-use-late-short-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "priority is not used to determine shipment count"}}
+{"id": "h-reasoning-early-short-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "incorrect calculation of shortfall"}}
+{"id": "c-0090", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "failure to consider capacity in the Rusafa sector"}}
+{"id": "c-0038", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-retrieval-late-medium-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-planning-early-short-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 1, "reason": "incorrect tariff fixed to the wrong sector"}}
+{"id": "h-reasoning-early-medium-0001", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0103", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "incorrect calculation of pre-fee amount"}}
+{"id": "c-0382", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0344", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "incorrect tariff used"}}
+{"id": "h-reasoning-late-short-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "incorrect calculation of pre-fee amount"}}
+{"id": "c-0340", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-planning-mid-medium-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-retrieval-early-long-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0037", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-tool-use-late-medium-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0196", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-human-interaction-mid-short-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 2, "reason": "incorrect count"}}
+{"id": "c-0151", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-reasoning-late-medium-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-reasoning-mid-medium-0001", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-human-interaction-early-medium-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0353", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-retrieval-mid-medium-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-retrieval-mid-medium-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-planning-early-medium-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0093", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0369", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-tool-use-early-long-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0214", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0239", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "calculated total shortfall instead of morning clinic's shortfall"}}
+{"id": "h-planning-early-medium-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-reasoning-early-short-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "incorrect calculation of shortfall"}}
+{"id": "h-tool-use-early-medium-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-planning-mid-medium-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0433", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0020", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-reasoning-mid-medium-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0418", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0063", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0326", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0033", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "none"}}
+{"id": "c-0229", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0112", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0230", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0060", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-tool-use-mid-long-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-mid-long-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0199", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 5, "reason": "incorrect calculation of pre-fee amount"}}
+{"id": "h-tool-use-mid-short-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "priority mismatch"}}
+{"id": "c-0200", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0249", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "incorrect price per copy assumed"}}
+{"id": "c-0398", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0057", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "incorrect assumption about the result of the calculation"}}
+{"id": "h-human-interaction-early-long-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-reasoning-mid-long-0001", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0152", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "assumed unit cost without considering region"}}
+{"id": "c-0061", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "incorrect calculation of pre-fee amount"}}
+{"id": "c-0292", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-reasoning-early-long-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0177", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0255", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "incorrect calculation of number of shipments"}}
+{"id": "c-0226", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0194", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "incorrect multiplication of count and price per copy"}}
+{"id": "c-0391", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "failed to account for registration fee in the calculation"}}
+{"id": "c-0040", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "incorrect rounding and failure to consider alternative capacity"}}
+{"id": "c-0046", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "incorrect calculation of shipments"}}
+{"id": "h-reasoning-late-short-0001", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "incorrect calculation of shortfall"}}
+{"id": "c-0425", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-tool-use-mid-long-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-tool-use-late-short-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "incorrect priority value"}}
+{"id": "h-reasoning-mid-long-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-retrieval-late-long-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0124", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 1, "reason": "failure to consider alternative clinic fee"}}
+{"id": "c-0055", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "incorrect price per copy used"}}
+{"id": "h-reasoning-late-long-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-retrieval-late-short-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0276", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "incorrect calculation of pre-fee amount"}}
+{"id": "c-0159", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0413", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0278", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "incorrect programme scope"}}
+{"id": "c-0338", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-reasoning-mid-long-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0048", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "incorrect use of fixed tariff instead of cost per request in the Karkh sector"}}
+{"id": "h-reasoning-early-long-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0309", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "incorrect comparison of target balance against current count instead of per-shipment capacity"}}
+{"id": "c-0201", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "failure to consider total capacity"}}
+{"id": "c-0083", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-retrieval-mid-short-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "no hallucination found"}}
+{"id": "c-0437", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "incorrectly used evening programme fee instead of morning programme fee"}}
+{"id": "h-retrieval-late-long-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-planning-mid-short-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 2, "reason": "applicable fee per seat incorrectly set to 20"}}
+{"id": "c-0245", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0197", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-tool-use-late-long-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0349", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-human-interaction-late-long-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لا يوجد"}}
+{"id": "h-human-interaction-late-long-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0044", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "incorrect multiplication of count and tariff"}}
+{"id": "h-reasoning-mid-short-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "incorrect capacity used for shipment count calculation"}}
+{"id": "h-planning-early-long-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0355", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-reasoning-mid-short-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "incorrect computation of shortfall"}}
+{"id": "h-tool-use-mid-short-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "priority not considered in shipment count calculation"}}
+{"id": "h-human-interaction-late-short-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "using incorrect target balance"}}
+{"id": "c-0282", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "incorrect calculation of shortfall"}}
+{"id": "h-human-interaction-late-long-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0128", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "incorrect calculation of morning clinic's shortfall"}}
+{"id": "c-0171", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0257", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "incorrect calculation of shortfall and shipments"}}
+{"id": "c-0047", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0122", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0130", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-mid-medium-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "incorrect count confirmed"}}
+{"id": "c-0021", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-planning-late-long-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-tool-use-late-long-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-human-interaction-mid-long-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-tool-use-late-long-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0274", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-tool-use-mid-long-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0348", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0265", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-planning-late-short-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "incorrect adoption of shipment capacity"}}
+{"id": "h-human-interaction-early-medium-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 2, "reason": "incorrect count confirmed"}}
+{"id": "c-0132", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "incorrect shipment capacity used for computation"}}
+{"id": "c-0419", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0388", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-retrieval-early-medium-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "incorrectly used per-appointment fee instead of recorded records fee"}}
+{"id": "h-reasoning-late-short-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "incorrect computation of shortfall"}}
+{"id": "c-0254", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0404", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-planning-early-long-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0303", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0034", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0380", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0267", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-retrieval-mid-short-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "using incorrect balance instead of last audited count"}}
+{"id": "h-retrieval-mid-short-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "incorrect calculation of shortfall"}}
+{"id": "h-reasoning-early-medium-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "assumed tariff without specification"}}
+{"id": "h-tool-use-late-long-0001", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0163", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-reasoning-early-long-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-planning-early-long-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-human-interaction-late-short-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "incorrectly adopted target figure"}}
+{"id": "h-tool-use-mid-medium-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-human-interaction-early-short-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "adopted incorrect target figure"}}
+{"id": "h-retrieval-mid-short-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "incorrect enrolment record retrieval"}}
+{"id": "h-tool-use-early-short-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "incorrect priority value"}}
+{"id": "c-0094", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-human-interaction-late-long-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0019", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-retrieval-mid-long-0001", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-human-interaction-early-long-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-retrieval-mid-long-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0153", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "ignored evening clinic's per-appointment fee"}}
+{"id": "h-planning-mid-long-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-retrieval-late-long-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "failure to consider the fee per seat in the evening programme"}}
+{"id": "c-0352", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0264", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-reasoning-early-long-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-planning-late-long-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-retrieval-early-medium-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "incorrectly retrieved registration fee"}}
+{"id": "c-0405", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-planning-early-long-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0362", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "incorrect assumption about the clinic coordinator's figure"}}
+{"id": "c-0227", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-tool-use-mid-short-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "incorrect priority value"}}
+{"id": "c-0359", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0213", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0136", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "incorrect cost per request value used in calculation"}}
+{"id": "c-0252", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-reasoning-early-medium-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "incorrect calculation of pre-fee amount"}}
+{"id": "c-0316", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "incorrect tariff used in calculation"}}
+{"id": "c-0441", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "incorrect total calculation"}}
+{"id": "c-0053", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "incorrect assumption about the clinic tariff"}}
+{"id": "h-retrieval-early-long-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0119", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0160", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "failure to consider region-specific unit cost"}}
+{"id": "h-tool-use-early-long-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0295", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-planning-late-medium-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "incorrect unit cost used"}}
+{"id": "h-retrieval-mid-long-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-retrieval-late-medium-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "incorrectly retrieved current figure"}}
+{"id": "h-planning-mid-long-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0195", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0164", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "incorrect unit cost used"}}
+{"id": "h-human-interaction-late-long-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-planning-late-long-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-reasoning-mid-long-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0304", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-late-medium-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "incorrect count used"}}
+{"id": "c-0290", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "calculation mistake"}}
+{"id": "c-0243", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0209", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0089", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0399", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "incorrectly used the morning programme fee per seat instead of the evening programme fee per seat"}}
+{"id": "h-human-interaction-late-long-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0127", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "wrong shipment capacity used"}}
+{"id": "h-retrieval-early-long-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0141", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-planning-mid-medium-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "wrong unit cost applied"}}
+{"id": "h-planning-late-medium-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "incorrect tariff value"}}
+{"id": "h-reasoning-mid-medium-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "incorrect unit cost used"}}
+{"id": "h-tool-use-mid-long-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0073", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "incorrect channel used"}}
+{"id": "c-0402", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0098", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "no hallucination found"}}
+{"id": "h-human-interaction-mid-medium-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "incorrect count confirmation"}}
+{"id": "c-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-human-interaction-early-medium-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 2, "reason": "incorrect count confirmed"}}
+{"id": "h-reasoning-late-medium-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "incorrect unit cost used"}}
+{"id": "h-planning-late-long-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0235", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "using the wrong shipment capacity"}}
+{"id": "c-0082", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "failure to consider evening clinic fee"}}
+{"id": "c-0193", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0101", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "incorrectly omitted inspection fee in calculation"}}
+{"id": "h-human-interaction-late-medium-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "incorrect count"}}
+{"id": "c-0319", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "incorrect interpretation of the scope of the fee"}}
+{"id": "h-reasoning-late-long-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0358", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "c-0232", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0129", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-retrieval-early-long-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "null"}}
+{"id": "h-reasoning-late-medium-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "incorrect pre-fee amount calculation"}}
+{"id": "h-retrieval-late-medium-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "incorrect shipping fee retrieval"}}
+{"id": "c-0390", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "incorrect tariff used"}}
+{"id": "c-0261", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-planning-early-medium-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "incorrect shipment capacity used"}}
+{"id": "c-0182", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 2, "reason": "assumption about cost per request"}}
+{"id": "c-0351", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "incorrect rounding of the number of shipments"}}
+{"id": "h-reasoning-mid-long-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "لا توجد هلوسة"}}
+{"id": "c-0157", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "incorrect tariff used"}}
+{"id": "c-0038", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "incorrect handling fee added"}}
+{"id": "c-0321", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "no hallucination found"}}
+{"id": "h-reasoning-early-long-0001", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0223", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0131", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "incorrect calculation of shipment count"}}
+{"id": "h-tool-use-late-medium-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 10, "reason": "incorrect channel stated"}}
+{"id": "c-0332", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "incorrectly added registration fee to morning programme fee"}}
+{"id": "c-0444", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "incorrect price per copy used"}}
+{"id": "h-reasoning-late-medium-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "used incorrect cost per request"}}
+{"id": "h-human-interaction-early-medium-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "adopted incorrect figure from registrar"}}
+{"id": "c-0307", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-tool-use-early-medium-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "failed to consider registration fee in calculation"}}
+{"id": "c-0108", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "incorrect calculation of pre-fee amount"}}
+{"id": "c-0151", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "no hallucination found"}}
+{"id": "h-planning-mid-medium-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "incorrect unit cost used"}}
+{"id": "h-reasoning-early-medium-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "incorrect calculation of shortfall"}}
+{"id": "h-reasoning-early-medium-0001", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "incorrect handling of unit cost and handling fee"}}
+{"id": "c-0379", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0196", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "incorrect unit cost assumption"}}
+{"id": "c-0184", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "incorrect total calculation"}}
+{"id": "h-tool-use-late-medium-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 10, "reason": "incorrect priority value"}}
+{"id": "c-0037", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 7, "reason": "failure to consider South region's unit cost"}}
+{"id": "c-0320", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "incorrect calculation of number of shipments"}}
+{"id": "h-human-interaction-mid-medium-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "adopted incorrect target figure from librarian"}}
+{"id": "c-0027", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "incorrect shipment capacity used for computation"}}
+{"id": "c-0192", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "incorrect tariff used in calculation"}}
+{"id": "c-0382", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "incorrectly assumed evening programme fee per seat"}}
+{"id": "c-0298", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 10, "reason": "priority is not used in the calculation"}}
+{"id": "h-planning-late-medium-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "incorrect adoption of per-shipment capacity"}}
+{"id": "c-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "incorrect tariff used in calculation"}}
+{"id": "h-reasoning-early-medium-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "incorrect computation of shortfall"}}
+{"id": "c-0376", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0226", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "incorrect unit cost assumption"}}
+{"id": "h-human-interaction-early-medium-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "using incorrect figure from sector officer"}}
+{"id": "h-reasoning-mid-medium-0001", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "incorrect calculation of pre-fee amount"}}
+{"id": "c-0093", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "no hallucination found"}}
+{"id": "h-retrieval-early-long-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "incorrect total calculation"}}
+{"id": "h-tool-use-late-medium-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 11, "reason": "incorrect priority value"}}
+{"id": "h-retrieval-mid-medium-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "incorrectly retrieved balance"}}
+{"id": "h-reasoning-late-medium-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "incorrect calculation of shortfall"}}
+{"id": "h-tool-use-early-long-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 1, "reason": "assumed faculty branch price without checking which branch is being used"}}
+{"id": "c-0200", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 1, "reason": "wrong assumption about the price per copy being 15 in all branches"}}
+{"id": "c-0229", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 10, "reason": "incorrectly added records fee to pre-fee amount"}}
+{"id": "h-reasoning-mid-long-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "incorrect calculation of pre-fee amount"}}
+{"id": "c-0413", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "no hallucination"}}
+{"id": "h-planning-early-medium-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 1, "reason": "incorrect shipment capacity"}}
+{"id": "h-tool-use-mid-long-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "incorrect pre-fee amount computation"}}
+{"id": "c-0398", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 10, "reason": "incorrectly added records fee to the total"}}
+{"id": "h-planning-mid-medium-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "adopted incorrect shipment capacity"}}
+{"id": "h-retrieval-late-medium-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "incorrectly used value 23 instead of last audited count 32"}}
+{"id": "c-0433", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "incorrect assumption about per-appointment fee"}}
+{"id": "c-0338", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 7, "reason": "used incorrect values"}}
+{"id": "c-0063", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-planning-early-medium-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 1, "reason": "incorrect shipment capacity adopted"}}
+{"id": "h-retrieval-late-long-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "incorrectly used the recorded registration fee reference value"}}
+{"id": "h-reasoning-early-long-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "incorrect calculation of pre-fee amount"}}
+{"id": "h-tool-use-early-medium-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "wrong shipment capacity used"}}
+{"id": "c-0418", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 10, "reason": "added records fee to the amount before settlement"}}
+{"id": "h-human-interaction-late-long-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 10, "reason": "incorrect calculation of pre-fee amount"}}
+{"id": "c-0349", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0060", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "incorrect price per copy used in calculation"}}
+{"id": "h-reasoning-mid-medium-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "incorrect computation of shortfall"}}
+{"id": "c-0230", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-tool-use-late-long-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "assumed evening programme fee was not applicable"}}
+{"id": "c-0326", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "incorrect tariff used"}}
+{"id": "c-0340", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "incorrect calculation of shipments"}}
+{"id": "c-0112", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "used the wrong cost per request"}}
+{"id": "c-0369", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "failed to check if target balance is achievable given shipment capacity"}}
+{"id": "c-0177", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "no hallucination found"}}
+{"id": "h-reasoning-mid-long-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "incorrect calculation of pre-fee amount"}}
+{"id": "c-0020", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "incorrect rounding of division result"}}
+{"id": "c-0171", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0425", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-reasoning-mid-long-0001", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "incorrect calculation of pre-fee amount"}}
+{"id": "c-0292", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-retrieval-mid-medium-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "incorrect retrieval of current figure"}}
+{"id": "c-0122", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "no hallucination found"}}
+{"id": "c-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 10, "reason": "incorrect rounding of shipments"}}
+{"id": "h-human-interaction-early-medium-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "adopted incorrect target figure"}}
+{"id": "c-0404", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "incorrect calculation of pre-fee amount and failure to consider registration fee in context"}}
+{"id": "c-0353", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 10, "reason": "incorrect division by evening clinic capacity instead of morning clinic capacity"}}
+{"id": "h-reasoning-early-long-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 9, "reason": "unnecessary calculation"}}
+{"id": "c-0355", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "incorrect pre-fee amount calculation"}}
+{"id": "c-0265", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 2, "reason": "inconsistent unit cost selection"}}
+{"id": "h-reasoning-mid-long-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "incorrect calculation of pre-fee amount"}}
+{"id": "c-0083", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "incorrect shipment capacity used for computation"}}
+{"id": "h-tool-use-late-long-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "incorrect price per copy used"}}
+{"id": "h-planning-early-long-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "incorrect unit cost used in calculation"}}
+{"id": "c-0245", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "target balance exceeds per-shipment capacity"}}
+{"id": "c-0047", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 7, "reason": "calculation error"}}
+{"id": "c-0163", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": 8, "reason": "choice of unit cost"}}
+{"id": "h-planning-late-long-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "wrong tariff applied"}}
+{"id": "h-tool-use-mid-long-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "incorrect priority used in calculation"}}
+{"id": "h-reasoning-late-long-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 10, "reason": "incorrect computation of shortfall"}}
+{"id": "h-human-interaction-late-long-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "incorrect count confirmed by the librarian"}}
+{"id": "c-0021", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "incorrect calculation of shortfall and target balance"}}
+{"id": "h-human-interaction-early-long-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "incorrect target figure"}}
+{"id": "c-0034", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-human-interaction-late-long-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "adopted incorrect figure from librarian"}}
+{"id": "c-0130", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "incorrect per-appointment fee used"}}
+{"id": "c-0267", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 10, "reason": "using pre-fee amount instead of correct unit cost"}}
+{"id": "c-0159", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "incorrect target balance calculation"}}
+{"id": "h-planning-late-long-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "applicable price per copy was incorrectly set to 50 instead of 45"}}
+{"id": "h-human-interaction-late-long-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 12, "reason": "wrong count used in calculation"}}
+{"id": "h-retrieval-late-long-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-planning-early-long-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 1, "reason": "incorrect fee per seat assumption"}}
+{"id": "c-0388", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "incorrect cost per request used"}}
+{"id": "h-planning-early-long-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 1, "reason": "adopted incorrect shipment capacity"}}
+{"id": "c-0197", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "incorrect rounding of shipments"}}
+{"id": "h-human-interaction-mid-long-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "incorrect count confirmed"}}
+{"id": "c-0348", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 10, "reason": "target balance not verified against policy"}}
+{"id": "h-reasoning-early-long-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "incorrect computation of the number of shipments"}}
+{"id": "c-0359", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 10, "reason": "failure to consider evening clinic tariff"}}
+{"id": "c-0213", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "incorrect calculation of total amount"}}
+{"id": "h-reasoning-early-long-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "incorrect calculation of pre-fee amount"}}
+{"id": "h-planning-early-long-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 1, "reason": "incorrectly assumed morning clinic per-appointment fee"}}
+{"id": "c-0119", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-planning-mid-long-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "incorrect tariff setting"}}
+{"id": "c-0019", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 11, "reason": "division by wrong capacity"}}
+{"id": "c-0441", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "None"}}
+{"id": "c-0195", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 12, "reason": "incorrect total calculation"}}
+{"id": "h-tool-use-late-long-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 11, "reason": "incorrect calculation of shipment count"}}
+{"id": "h-planning-mid-long-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "incorrect per-shipment capacity for the morning programme"}}
+{"id": "c-0252", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "incorrect fee per seat used in calculation"}}
+{"id": "h-tool-use-late-long-0001", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 10, "reason": "incorrect tariff used for last 4 requests"}}
+{"id": "h-tool-use-early-long-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "incorrect settlement channel"}}
+{"id": "h-retrieval-early-long-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "incorrect recorded inspection fee"}}
+{"id": "c-0274", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 10, "reason": "incorrect shipment capacity used for computation"}}
+{"id": "c-0094", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "none"}}
+{"id": "c-0227", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-human-interaction-late-long-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 10, "reason": "adopted incorrect target balance"}}
+{"id": "c-0295", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 11, "reason": "incorrectly added registration fee to the amount before adding it to the total"}}
+{"id": "h-retrieval-mid-long-0001", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "incorrectly retrieved current figure from library catalogue"}}
+{"id": "h-planning-late-long-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "incorrect price per copy"}}
+{"id": "h-retrieval-late-long-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "None"}}
+{"id": "h-human-interaction-early-long-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "using confirmed figure instead of target balance"}}
+{"id": "c-0380", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "h-tool-use-mid-long-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "incorrect priority value"}}
+{"id": "c-0254", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "incorrect calculation of shortfall"}}
+{"id": "c-0264", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 12, "reason": "dispatching the wrong quantity"}}
+{"id": "h-reasoning-late-long-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 12, "reason": "incorrect computation of shortfall"}}
+{"id": "h-retrieval-early-long-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "incorrect recorded handling fee"}}
+{"id": "c-0089", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "incorrect comparison of current figure to target balance"}}
+{"id": "h-retrieval-mid-long-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "incorrect use of recorded records fee"}}
+{"id": "c-0304", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "no hallucination found"}}
+{"id": "c-0352", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 10, "reason": "used the wrong per-shipment capacity for the calculation"}}
+{"id": "h-retrieval-mid-long-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "using actual count instead of last audited count"}}
+{"id": "h-retrieval-early-long-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "incorrect recorded records fee"}}
+{"id": "h-human-interaction-late-long-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 11, "reason": "adopted figure does not match target balance"}}
+{"id": "h-reasoning-mid-long-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": "none"}}
+{"id": "c-0358", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 13, "reason": "inclusion of unnecessary component in the answer"}}
+{"id": "h-planning-late-long-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "incorrect per-shipment capacity for morning clinic"}}
+{"id": "h-reasoning-mid-long-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "incorrect calculation of shortfall"}}
+{"id": "c-0193", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0402", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 12, "reason": "adopted incorrect target balance"}}
+{"id": "h-reasoning-early-long-0001", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0129", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 12, "reason": "assumed priority for shipment instead of task priority"}}
+{"id": "c-0141", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 10, "reason": "incorrect rounding of the number of shipments"}}
+{"id": "c-0232", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 11, "reason": "incorrect computation of shipments"}}
+{"id": "c-0261", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 12, "reason": "incorrectly used morning clinic's per-shipment capacity instead of evening clinic's"}}
+{"id": "h-tool-use-mid-long-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "incorrect rounding of shipments"}}
+{"id": "c-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "failure to consider evening clinic capacity"}}
+{"id": "c-0379", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}

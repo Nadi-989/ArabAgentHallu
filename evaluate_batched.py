@@ -332,7 +332,7 @@ def main() -> None:
     ap.add_argument("--limit", type=int, default=0)
     ap.add_argument("--offset", type=int, default=0)
     ap.add_argument("--langs", default="ar,en")
-    ap.add_argument("--style", choices=("direct", "cot"), default="cot")
+    ap.add_argument("--style", choices=("direct", "cot", "freecot"), default="cot")
     ap.add_argument("--max-new-tokens", type=int, default=0)
     ap.add_argument("--batch-size", type=int, default=8)
     ap.add_argument("--greedy", action="store_true", default=True)
@@ -370,7 +370,7 @@ def main() -> None:
         ap.error("--hf-model is required unless --merge is used")
 
     evaluate.STYLE = a.style
-    max_new = a.max_new_tokens or (1400 if a.style == "cot" else 300)
+    max_new = a.max_new_tokens or (300 if a.style == "direct" else 1400)
     raw_path = f"raw_{a.tag}.jsonl"
 
     print(f"items {len(items)} (offset {a.offset})  langs {langs}  runs {a.runs}  "

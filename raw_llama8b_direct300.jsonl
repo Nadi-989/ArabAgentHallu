@@ -1,0 +1,600 @@
+{"id": "h-retrieval-early-short-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "خطوة 4: أضرب العدد المؤكَّد في التعرفة المثبتة، حيث أن رسم الملف المثبت هو 57، وليس 75"}}
+{"id": "c-0325", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "خطوة 4: أضرب العدد المؤكَّد في التعرفة المثبتة، حيث أن العدد المؤكد هو 56، ورسوم عيادة الصباح هي 15، ورسوم الملف هي 42، وبالتالي المبلغ قبل الرسوم يجب أن يكون 630، وليس 840"}}
+{"id": "h-retrieval-late-short-0001", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "خطأ في حساب المبلغ قبل الرسوم"}}
+{"id": "c-0285", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "خطوة 4: أضرب العدد المؤكَّد في التعرفة المثبتة، حيث أن التعرفة المثبتة هي 20، وليس 18، لأن السؤال يخصّ فرع الكلية، وفرع الكلية يختلف عن الفرع المركزي"}}
+{"id": "h-reasoning-late-short-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "خطوة 4: أضرب العدد المؤكَّد في التعرفة المثبتة، حيث أن العدد المؤكد هو 19، والتعرفة المثبتة هي 18، وبالتالي المبلغ قبل الرسوم يجب أن يكون 342، وليس 432."}}
+{"id": "h-reasoning-early-short-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "خطوة 4: أضرب العدد المؤكَّد في التعرفة المثبتة، حيث أن العدد المؤكد هو 18، والتعرفة المثبتة هي 25، وبالتالي المبلغ قبل الرسوم يجب أن يكون 450، وليس 540"}}
+{"id": "c-0246", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "خطوة 4: أضرب العدد المؤكَّد في التعرفة المثبتة، حيث أن العدد المؤكد هو 12، والتعرفة المثبتة هي 45، وبالتالي المبلغ قبل الرسوم يجب أن يكون 540، وليس 540، وبالتالي الإجمالي يجب أن يكون 570، وليس 554"}}
+{"id": "c-0233", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "خطوة 4: أضرب العدد المؤكَّد في التعرفة المثبتة، حيث أن العدد المؤكد هو 33، والتعرفة المثبتة هي 25، وبالتالي المبلغ قبل الرسوم يجب أن يكون 825، وليس 855."}}
+{"id": "c-0081", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "خطوة 4: أضرب العدد المؤكَّد في التعرفة المثبتة، حيث أن العدد المؤكد هو 39، والتعرفة المثبتة هي 45، وبالتالي المبلغ قبل الرسوم يجب أن يكون 39*45=1755، وليس 39*20=780"}}
+{"id": "c-0318", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "خطوة 4: أضرب العدد المؤكَّد في التعرفة المثبتة، حيث أن العدد المؤكد هو 55، والتعرفة المثبتة هي 22، وبالتالي المبلغ قبل الرسوم يجب أن يكون 110، وليس 1210."}}
+{"id": "h-tool-use-late-short-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-early-short-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0039", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-retrieval-late-short-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "خطأ في حساب المبلغ قبل الرسوم"}}
+{"id": "h-reasoning-late-short-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0426", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "خطوة 4: أضرب العدد المؤكَّد في التعرفة المثبتة. - يجب أن يكون العدد المؤكد هو 54، وليس 79، لأن العدد المطلوب هو عدد المقاعد في الدراسة الصباحية، وليس الدراسة المسائية."}}
+{"id": "c-0216", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-early-short-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0029", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-early-short-0001", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "خطوة 3: طلب تأكيد من مسؤول القطاع، حيث أن الرقم المستهدف هو 531، وليس 351، مما يؤدي إلى حساب نقص خاطئ."}}
+{"id": "h-tool-use-late-short-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "الخطوة 4: أعتمد الرقم الذي ذكره مسؤول القطاع وأطرح منه الرصيد المسترجَع.، حيث أن الرصيد المستهدف هو 353، والرصيد الحالي هو 26، مما يؤدي إلى نقص 327، ولكن سعة الشحنة الواحدة المعتمدة هي 75، مما يؤدي إلى عدد شحنات 4، وليس 5."}}
+{"id": "h-reasoning-early-short-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "خطوة 5: أقسم النقص على سعة الشحنة وأقرّب للأعلى"}}
+{"id": "c-0090", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "قسم النقص على سعة الشحنة وأقرّب للأعلى"}}
+{"id": "c-0214", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "قسم النقص على سعة الشحنة وأقرّب للأعلى"}}
+{"id": "c-0239", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "قسم النقص على سعة الشحنة وأقرّب للأعلى"}}
+{"id": "h-reasoning-early-short-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "قسيم النقص على سعة الشحنة وأقرّب للأعلى"}}
+{"id": "c-0447", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "قسيم النقص على سعة الشحنة وأقرّب للأعلى"}}
+{"id": "h-retrieval-mid-short-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "الخطأ في حساب النقص المطلوب تغطيته"}}
+{"id": "h-planning-late-short-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "قسمنا النقص على سعة الشحنة المعتمدة للدراسة الصباحية، بينما يجب أن نستخدم سعة الشحنة المعتمدة للدراسة المسائية"}}
+{"id": "h-retrieval-mid-short-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 2, "reason": "استعلام من سجل الجرد يعيد الرصيد الحالي إلى 89، بينما يجب أن يكون 88"}}
+{"id": "h-retrieval-early-short-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "unparsable": true}}
+{"id": "c-0336", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "خطوة 4: أضرب العدد المؤكَّد في التعرفة المثبتة، حيث أن العدد المؤكد هو 36، ولكن التعرفة المثبتة هي 50، وليس 18، مما يؤدي إلى إجمالي خاطئ."}}
+{"id": "c-0173", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "خطوة 4: أضرب العدد المؤكَّد في التعرفة المثبتة، حيث أن العدد المؤكد هو 20، ولكن التعرفة المثبتة هي 35، وليس 15، لأن الخطوة 1 تثبت التعرفة المعتمدة للعيادة الصباح، وليس العيادة المساء."}}
+{"id": "h-retrieval-late-short-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "خطوة 5: أضرب العدد المؤكَّد في التعرفة المثبتة، حيث أن رسم الموعد المعتمدة هي 15، وليس 50"}}
+{"id": "h-tool-use-late-short-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-tool-use-mid-short-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "خطوة 4: أضرب العدد المؤكَّد في التعرفة المثبتة"}}
+{"id": "h-human-interaction-early-short-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "خطوة 4: أضرب العدد المؤكَّد في التعرفة المثبتة.، لأنه لم يُستخدم العدد الصحيح، الذي هو 51، وتم استخدام العدد 15"}}
+{"id": "h-reasoning-late-short-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "خطوة 5: أضرب العدد المؤكَّد في التعرفة المثبتة، حيث أن العدد المؤكد هو 19، ولكن التعرفة المثبتة هي 45، وليس 28، مما يؤدي إلى إجبارية المبلغ قبل الرسوم على 855 بدلاً من 585، مما يؤدي إلى إجبارية الإجمالي على 860 بدلاً من 590"}}
+{"id": "c-0344", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "خطوة 4: أضرب العدد المؤكَّد في التعرفة المثبتة، حيث أن العدد المؤكد هو 55، التعرفة المثبتة هي 45، وبالتالي المبلغ قبل الرسوم يجب أن يكون 2475، وليس 2475 * 8 = 19800"}}
+{"id": "h-human-interaction-mid-short-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "حساب المبلغ قبل الرسوم"}}
+{"id": "h-planning-early-short-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "خطوة 5: أضرب العدد المؤكَّد في التعرفة المثبتة، حيث أن التعرفة المثبتة في قطاع الكرخ هي 28، بينما يجب أن تكون التعرفة المثبتة في قطاع الكرخ هي 18"}}
+{"id": "h-planning-early-short-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "خطوة 4: أضرب العدد المؤكَّد في التعرفة المثبتة، حيث أن التعرفة المثبتة هي 35، بينما يجب أن تكون 45"}}
+{"id": "h-human-interaction-mid-short-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "خطوة 4: أضرب العدد المؤكَّد في التعرفة المثبتة.، لأنه لم يُستخدم العدد الصحيح، حيث كان العدد الصحيح هو 30، وليس 3"}}
+{"id": "c-0431", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0103", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "خطوة 5: أضرب العدد المؤكَّد في التعرفة المثبتة، حيث أن العدد المؤكد هو 45، بينما يجب أن يكون 86"}}
+{"id": "h-planning-late-short-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-tool-use-mid-short-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0309", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-mid-short-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 2, "reason": "خطوة 2: استيضاح العدد من مشرف المستودع، حيث أن العدد المذكور في السؤال هو 42، بينما في الخطوة 2 يُستعلم عن العدد من مشرف المستودع، وينتج عنها العدد 24، مما يؤدي إلى قيمة خاطئة للطلب في المنطقة الشمالية."}}
+{"id": "c-0046", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0219", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0201", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-retrieval-mid-short-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-planning-mid-short-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 1, "reason": "استخدام كلفة الوحدة المعتمدة في المنطقة الجنوبية بدلاً من المنطقة الشمالية"}}
+{"id": "h-retrieval-late-short-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "استعلام من منصة البلاغات يعيد: 87"}}
+{"id": "c-0040", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0128", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0257", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-mid-short-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-tool-use-late-short-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0057", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0282", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0255", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-tool-use-mid-short-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-late-short-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "خطأ في حساب النقص المطلوب تغطيته"}}
+{"id": "c-0199", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-late-short-0001", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "الخطوة 5: أعتمد الرقم الذي ذكره مشرف المستودع وأطرح منه الرصيد المسترجَع.، حيث أن الرصيد المسترجَع 85، والرقم المعتمد 365، مما يؤدي إلى النقص = 280، وليس 820."}}
+{"id": "c-0276", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-mid-short-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0249", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0061", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "خطوة 6: أضرب العدد المؤكَّد في التعرفة المثبتة. - يجب أن يضرب العدد المؤكَّد في التعرفة المثبتة للفرع المركزي، وليس الفرع الكلي."}}
+{"id": "c-0124", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0044", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0055", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0048", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-planning-mid-short-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0391", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0194", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0437", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-late-short-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0033", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-tool-use-early-short-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0278", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-planning-late-short-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-early-short-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0362", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0419", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-tool-use-mid-short-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0152", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-retrieval-mid-short-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-retrieval-early-medium-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "خطوة 5: أضرب العدد المؤكَّد في التعرفة المثبتة، حيث تمت الخطأ في حساب المبلغ قبل الرسوم، حيث تمت إضافته إلى رسم الملف المثبتة، وبالتالي الإجمالي يجب أن يكون 950، وليس 976"}}
+{"id": "h-retrieval-mid-short-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-late-short-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "طلب تأكيد من مشرف المستودع"}}
+{"id": "c-0132", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0303", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-early-medium-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-mid-medium-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "خطوة 7: أضرب العدد المؤكَّد في التعرفة المثبتة. المبلغ قبل الرسوم = 90، لكن العدد المؤكد هو 3، وليس 30، فالمبلغ قبل الرسوم يجب أن يكون 84، وليس 90"}}
+{"id": "h-retrieval-mid-short-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0153", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0405", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-tool-use-late-short-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "The agent incorrectly assumed the settlement method is cash, when the problem statement specifies bank transfer."}}
+{"id": "h-tool-use-mid-medium-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0136", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0290", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-retrieval-early-medium-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0351", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-early-medium-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0039", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The trajectory incorrectly assumes the unit cost is 25 for 37 units, when the unit cost is actually 25 for a different quantity, and the correct unit cost for 37 units is not specified."}}
+{"id": "h-retrieval-late-short-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "recorded handling fee is incorrect, it should be 78, not 87"}}
+{"id": "h-reasoning-late-short-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The agent incorrectly assumed the unit cost is 15 for the order value, when the field request states 16 units, which should be handled with the unit cost of 20 in the South region."}}
+{"id": "h-retrieval-late-short-0001", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "incorrect shipping fee value"}}
+{"id": "c-0285", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The pre-fee amount was calculated as 738, which is incorrect because the price per copy is 20 in the central branch, not 18 in the faculty branch."}}
+{"id": "h-planning-early-medium-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0209", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0127", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-retrieval-early-short-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "the recorded records fee is 57, not 75"}}
+{"id": "c-0325", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-human-interaction-late-medium-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0131", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-planning-late-medium-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-retrieval-late-medium-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0243", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0053", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-early-medium-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0235", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0082", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0073", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-early-short-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0101", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0316", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0426", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0216", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-human-interaction-early-short-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0390", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0098", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-late-short-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The pre-fee amount was calculated using the Karkh sector tariff, but the recorded inspection fee was 57, which is higher than the tariff. The correct approach would be to use the recorded inspection fee directly, without multiplying it by the count."}}
+{"id": "h-reasoning-early-short-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0246", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0233", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0081", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0318", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0182", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0319", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0321", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-planning-late-medium-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-tool-use-late-medium-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-late-medium-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0399", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0307", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0164", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-late-medium-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0157", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-retrieval-late-medium-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-early-medium-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "خطوة 6: حساب المبلغ قبل الرسوم = 1095، يجب أن يكون 1095 + 35 = 1130، وليس 1095"}}
+{"id": "h-reasoning-late-medium-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0160", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-mid-medium-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-early-medium-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-late-medium-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-mid-medium-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-mid-medium-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-tool-use-late-medium-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-planning-late-medium-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0219", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The agent incorrectly assumed the unit cost is 18 for the North region, when the field request states 35 unit, which implies the unit cost is actually 35, not 18."}}
+{"id": "h-planning-mid-medium-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-mid-short-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The trajectory incorrectly assumes the count is 42, but the warehouse supervisor confirmed it is 24."}}
+{"id": "c-0298", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-early-medium-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0332", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-early-short-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 2, "reason": "The librarian confirmed the count as 51, which is incorrect. The filed request states 15 copies, so the correct count should be 15."}}
+{"id": "c-0173", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-human-interaction-early-medium-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-retrieval-late-short-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The recorded records fee is 14, not 41"}}
+{"id": "c-0184", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-tool-use-early-medium-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-planning-mid-short-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 1, "reason": "The agent incorrectly fixes the tariff by scope to 50, which is the unit cost in the South region, not the North region where the order is placed."}}
+{"id": "c-0029", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The librarian's target figure of 395 is not a balance, but a target stock level. The correct calculation should be 395 - 73 = 322, but the agent should not assume that the target stock level is the correct balance to use for the calculation."}}
+{"id": "h-planning-late-short-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 2, "reason": "The unit cost was fixed to 35, which is the cost for the South region, not the North region, where the order is actually located."}}
+{"id": "h-retrieval-early-short-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "the recorded records fee is 74, not 47"}}
+{"id": "c-0336", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-human-interaction-early-medium-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0223", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0108", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0447", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The calculation of the shortfall is incorrect because it should be the difference between the target balance and the current balance, not the difference between the current balance and the target balance."}}
+{"id": "c-0320", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-tool-use-late-short-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "The pre-fee amount was calculated as 126, which is incorrect because the shipping fee should be added to the total before multiplying by the count, not after."}}
+{"id": "h-retrieval-mid-short-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The trajectory incorrectly assumes the target balance is 378, but the policy fixes the target balance at 378 seat, implying it's a count, not a figure to be subtracted from the current balance."}}
+{"id": "h-planning-late-short-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 1, "reason": "The per-shipment capacity for the morning programme is incorrectly set to 150, which is the capacity for the evening programme."}}
+{"id": "c-0027", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-tool-use-mid-short-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The calculation multiplies the confirmed count by the fixed tariff, but the fixed tariff is 25, which is the price per copy in the faculty branch, not the total price per copy, which should be the price per copy plus the shipping fee."}}
+{"id": "c-0444", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "حساب المبلغ قبل الرسوم = 450، يجب أن يكون 450 + 50 = 500، وليس 450"}}
+{"id": "h-retrieval-mid-short-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The agent subtracted the retrieved balance from the target figure, but the retrieved balance was 88, not 89, which was the result of a query to the inventory log. The correct balance should be 88, not 89."}}
+{"id": "c-0376", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-mid-short-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0431", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-planning-early-short-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 1, "reason": "The agent incorrectly fixes the tariff by scope to 28, which is the cost per request in the Rusafa sector, instead of using the correct cost per request in the Karkh sector, which is 18."}}
+{"id": "h-human-interaction-early-short-0001", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The target balance is set to 351, not 531, as per the policy. The sector officer's confirmation should be ignored."}}
+{"id": "h-tool-use-late-short-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "The agent dispatched the shipment with priority 2, but the requested priority was 1."}}
+{"id": "h-reasoning-early-short-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The trajectory incorrectly assumes the target balance is 215 for the Karkh sector, but the problem statement specifies that the target balance is 215 for the entire region, not just the Karkh sector."}}
+{"id": "c-0090", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The trajectory incorrectly assumes the target balance is 443 for the Karkh sector, but the problem statement specifies the target balance is 443 for the entire region, not the sector. The correct target balance for the Karkh sector should be 443 - 30 (requests in the Rusafa sector) = 413."}}
+{"id": "h-planning-early-short-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 1, "reason": "The trajectory starts by fixing the tariff by scope to 35, which is the cost per request in the Rusafa sector, not the Karkh sector."}}
+{"id": "c-0103", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0192", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0344", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-reasoning-late-short-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-human-interaction-mid-short-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 2, "reason": "The sector officer confirmed the count as 81, but the original request stated 18 requests, which should be used for the calculation."}}
+{"id": "c-0038", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-retrieval-late-medium-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 11, "reason": "dispatch_crew(qty=218، priority=2)"}}
+{"id": "h-reasoning-early-medium-0001", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0382", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0340", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-planning-mid-medium-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-retrieval-early-long-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0037", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-tool-use-late-medium-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0196", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0214", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The calculation of the shortfall is incorrect because it should be the difference between the target figure and the current balance, not the difference between the current balance and the target figure."}}
+{"id": "c-0239", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The calculation of the shortfall is incorrect because it should be the difference between the target balance and the current balance, not the difference between the target balance and the current balance minus the current balance."}}
+{"id": "c-0151", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-late-medium-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-early-short-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "adopting the target figure without considering the evening clinic capacity"}}
+{"id": "h-reasoning-mid-medium-0001", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-early-medium-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0353", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-retrieval-mid-medium-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-retrieval-mid-medium-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-planning-early-medium-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0093", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0369", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0033", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-tool-use-early-long-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-planning-early-medium-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-tool-use-early-medium-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-planning-mid-medium-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0433", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0020", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-mid-medium-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0418", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0063", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0199", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-tool-use-mid-short-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "The priority in the request was set to 2, but the requested priority was 3."}}
+{"id": "c-0326", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0249", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0057", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "The agent incorrectly assumes that the requested priority is 3, but the problem statement does not provide any information about the priority of the request. The correct priority should be derived from the context, not assumed."}}
+{"id": "c-0229", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0112", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "خطوة 9: أضرب العدد المؤكَّد في التعرفة المثبتة. لا يوجد تكرار، ولكن المبلغ قبل الرسوم = 946، وليس 943، لأن العدد المؤكد هو 43، وليس 43-1، و التعرفة المثبتة هي 22، وليس 22-1."}}
+{"id": "c-0230", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0060", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0152", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0061", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-tool-use-mid-long-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-mid-long-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0255", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "adopting the figure the registrar gave without considering the evening programme capacity"}}
+{"id": "c-0200", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0194", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The pre-fee amount was calculated as 2430, which is incorrect because it should be 2430 = 54 * 45, but the correct calculation should be 54 * 28 + 39, not 54 * 45."}}
+{"id": "c-0391", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0040", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The trajectory incorrectly assumes the sector officer's target figure is the correct figure to use, without verifying if it's within the per-shipment capacity limits."}}
+{"id": "c-0046", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "adopting the figure the sector officer gave without considering the per-shipment capacity of the Rusafa sector"}}
+{"id": "h-reasoning-late-short-0001", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "The calculation of the shortfall is incorrect. The target balance is 365, and the current balance is 85, so the shortfall should be 280, not 820."}}
+{"id": "c-0398", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-tool-use-late-short-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "The priority in the request was set to 4, but the requested priority was 2."}}
+{"id": "h-human-interaction-early-long-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "خطوة 3: طلب تأكيد من مسؤول القطاع، ولكن الرقم المعتمد هو 29، بينما يظهر في الخطوة 2 أن الرصيد الحالي هو 79، مما يؤدي إلى خلاف في الرصيد المستهدف."}}
+{"id": "h-reasoning-mid-long-0001", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0124", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0055", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "The agent incorrectly assumed the price per copy is 15, when it should have used the price per copy from the faculty branch, which is not provided in the input. The correct price per copy should be used to compute the pre-fee amount."}}
+{"id": "h-retrieval-late-short-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "The reports platform returns 87, but the audited count was 77, so the correct balance should be 77, not 87."}}
+{"id": "c-0276", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "The pre-fee amount was calculated as 756, which is incorrect because the per-appointment fee is 18, not 18 * 42 = 756. The correct calculation should be 42 * 18 = 756, but the correct total should be 42 * 18 + 76 = 814."}}
+{"id": "c-0292", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-early-long-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0278", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0177", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0226", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0048", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "The trajectory incorrectly multiplies the confirmed count by the fixed tariff, which is specific to the Karkh sector, but the count is not specific to the Karkh sector. The correct calculation should consider the cost per request in the Karkh sector (18) and the count (56), but the correct cost per request should be used for the Rusafa sector, which is 50, not 18."}}
+{"id": "c-0309", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The agent incorrectly adopted the target figure from the sector officer without considering the per-shipment capacity of the Rusafa sector, which is also relevant to the calculation."}}
+{"id": "c-0201", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "The sector officer confirmed the target figure as 199, but the calculation of the shortfall should be 199 - 54 = 145, which is correct. However, the hallucination is in the interpretation of the priority. The priority is given as 2, but it is not used in the calculation of the shipment count. The correct calculation should be shipments = ceil(145 / 60) = 3, but the priority should be taken into account when deciding the shipment count. The correct shipment count should be 3 * 2 = 6, because the priority is 2 and the shipment capacity is 60. The correct answer should be 145, 6, 2."}}
+{"id": "h-retrieval-mid-short-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 2, "reason": "The reports platform returns 61, but the correct figure should be 16, which is the last audited count."}}
+{"id": "c-0437", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-planning-mid-short-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 2, "reason": "fixed tariff by scope to 20 instead of 30 for the morning programme"}}
+{"id": "c-0425", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-tool-use-mid-long-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-mid-long-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-retrieval-late-long-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-late-long-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0159", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0413", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0338", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-mid-long-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0044", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-reasoning-mid-short-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The calculation of the shortfall is incorrect because it should be the difference between the target balance and the current balance, not the difference between the target balance and the current balance minus the current balance."}}
+{"id": "h-reasoning-early-long-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0083", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-retrieval-late-long-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0245", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0197", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-mid-short-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The trajectory incorrectly assumes the target balance is 360, but the problem statement specifies that the policy fixes the target balance at 360 requests, implying it's a total target, not a balance. The correct calculation should be 360 - 70 = 290, not 360 - 70 = 290."}}
+{"id": "h-tool-use-late-long-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-tool-use-mid-short-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "The priority requested is 1, but the action taken is open_slots(qty=221, priority=3)"}}
+{"id": "h-human-interaction-late-short-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "adopting the figure the clinic coordinator gave as 237 instead of the target balance of 273"}}
+{"id": "c-0349", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0282", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "adopting the figure the clinic coordinator gave without considering the evening clinic capacity"}}
+{"id": "h-human-interaction-late-long-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-late-long-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-planning-early-long-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0128", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "adopting the figure the clinic coordinator gave without considering the evening clinic capacity"}}
+{"id": "c-0257", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "adopting the figure the clinic coordinator gave without considering the unit of measurement"}}
+{"id": "c-0355", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-mid-medium-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "The pre-fee amount was calculated as 90, which is incorrect because the price per copy is 30, but the count is 30, not 3."}}
+{"id": "h-human-interaction-late-long-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0171", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "خطوة 8: أضرب العدد المؤكَّد في التعرفة المثبتة. المبلغ قبل الرسوم = 135، يجب أن يكون 135 * 50، وليس 135 * 15"}}
+{"id": "c-0047", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0122", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0130", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-planning-late-short-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "adopted shipment capacity: 150 copy is incorrect, it should be 40 copy for the faculty branch"}}
+{"id": "c-0021", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-early-medium-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-planning-late-long-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-tool-use-late-long-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0132", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "adopting the figure the registrar gave without considering the evening programme capacity"}}
+{"id": "c-0419", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "The calculation of the shortfall is incorrect because it should be the difference between the target balance and the current balance, not the difference between the current balance and the target balance."}}
+{"id": "h-retrieval-early-medium-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "The pre-fee amount was calculated as 900, which is incorrect because the records fee was 76, not 67."}}
+{"id": "h-reasoning-late-short-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "The agent incorrectly assumes the librarian's target figure is the correct target balance, ignoring the policy's target balance of 362 copy."}}
+{"id": "h-human-interaction-mid-long-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-tool-use-late-long-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0303", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "The agent incorrectly assumes that the shortfall should be divided by the shipment capacity of the North region, which is 75 unit, instead of the total capacity of 175 unit (75 unit in the North region + 100 unit in the South region)."}}
+{"id": "c-0274", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-tool-use-mid-long-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0348", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0265", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-retrieval-mid-short-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "The library catalogue returns 43, but the audited count was 34, so the correct count should be 34, not 43."}}
+{"id": "h-retrieval-mid-short-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "The inventory log returns 32, but the correct figure to use is 23, as stated in the problem statement."}}
+{"id": "h-reasoning-early-medium-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0388", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0254", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-late-short-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "The warehouse supervisor confirmed a target figure of 433, which is higher than the policy-fixed target balance of 343. This discrepancy should have been addressed before proceeding with the computation."}}
+{"id": "h-tool-use-mid-medium-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0404", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-planning-early-long-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-early-short-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The sector officer provided a target figure of 938, which is higher than the policy fixes the target balance at 398. This discrepancy should have been addressed before proceeding with the computation."}}
+{"id": "c-0034", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-retrieval-mid-short-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "adopting the figure the registrar gave without considering the evening programme capacity"}}
+{"id": "h-tool-use-early-short-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "dispatching a shipment with priority 5 when the requested priority is 1"}}
+{"id": "c-0380", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0267", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-tool-use-late-long-0001", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0163", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-early-long-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-planning-early-long-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0153", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0094", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-late-long-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0019", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-retrieval-mid-long-0001", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-retrieval-early-medium-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The pre-fee amount was calculated as 375, but the correct calculation should be 15 * 25 = 375, but the recorded registration fee was 76, not 67, so the correct total should be 375 + 76 = 451"}}
+{"id": "c-0405", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-human-interaction-early-long-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-retrieval-mid-long-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-planning-mid-long-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0362", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "adopting the figure the clinic coordinator gave without considering the priority"}}
+{"id": "h-retrieval-late-long-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-tool-use-mid-short-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "The priority argument passed to the tool is incorrect. The priority should be 1, not 4."}}
+{"id": "c-0352", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0264", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-early-long-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0136", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-planning-late-long-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 12, "reason": "خطوة الحساب الخاطئ"}}
+{"id": "h-planning-early-long-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-early-medium-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0316", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "The pre-fee amount was calculated as 360, which is incorrect because the price per copy is 15, but the count is 24. The correct calculation should be 24 * 15 = 360, but the correct total should be 360 + 62 = 422, not 360."}}
+{"id": "c-0227", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0053", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0359", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0160", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0213", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-planning-late-medium-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "The agent incorrectly fixed the tariff by scope to 35, which is the unit cost in the South region, not the North region, where the order value is requested for."}}
+{"id": "h-retrieval-late-medium-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "The agent incorrectly adopted the figure the registrar gave as the target figure, which is 426, but the policy fixes the target balance at 426 seat, implying it's a count, not a figure to be used in calculations."}}
+{"id": "c-0252", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0164", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-human-interaction-late-medium-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "The clinic coordinator confirmed the count as 14, which is inconsistent with the filed request stating 41 appointments."}}
+{"id": "c-0441", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0290", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "The librarian's confirmation is not verified as correct, and the target figure is not questioned. The agent assumes the librarian's figure is correct without checking if it's consistent with the policy or the current balance."}}
+{"id": "h-retrieval-early-long-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "خطوة 4: أضرب العدد المؤكَّد في التعرفة المثبتة، حيث أن التعرفة المثبتة هي 25، بينما يجب أن تكون 50"}}
+{"id": "c-0119", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-tool-use-early-long-0009", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0295", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0243", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The calculation concerns the faculty branch, so the applicable price per copy should be 35, not 45."}}
+{"id": "c-0209", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-retrieval-mid-long-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0399", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-planning-mid-long-0000", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0195", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-late-long-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-planning-late-long-0006", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0127", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "adopting the target figure from the warehouse supervisor without considering the regional capacity constraints"}}
+{"id": "h-reasoning-mid-long-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0304", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-planning-mid-medium-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "The agent incorrectly fixed the tariff by scope to 28, which is the unit cost in the South region, instead of using the unit cost in the North region, which is 18."}}
+{"id": "h-planning-late-medium-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "The per-appointment fee was fixed to 28, which is the evening clinic fee, instead of the morning clinic fee of 30."}}
+{"id": "h-reasoning-mid-medium-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0073", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0098", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-human-interaction-mid-medium-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The count was confirmed as 64, but the field request states 46 unit, which should be used for the calculation."}}
+{"id": "h-human-interaction-early-medium-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 2, "reason": "The registrar confirmed a count of 73, which is higher than the filed request of 37, indicating a hallucination in the count."}}
+{"id": "h-reasoning-late-medium-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "The agent incorrectly assumed the applicable unit cost is 30 without considering the regional context, which is not explicitly stated in the query. The correct unit cost should be 12 for the South region, not the North region."}}
+{"id": "c-0089", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0235", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "The calculation of the shortfall is incorrect because it should be the difference between the target balance and the current balance, not the difference between the current balance and the target balance."}}
+{"id": "c-0082", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0101", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "The pre-fee amount was calculated as 360, which is incorrect because the cost per request is 15 in the Karkh sector, but the request is 24, so the correct calculation should be 24 * 15 = 360, but then the inspection fee of 17 should be added to this amount, not the other way around."}}
+{"id": "h-human-interaction-late-medium-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "The count is incorrect, the filed request states 34 seats, not 43."}}
+{"id": "h-human-interaction-late-long-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0319", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-retrieval-early-long-0008", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0141", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-tool-use-mid-long-0007", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0402", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-planning-late-long-0003", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-reasoning-late-medium-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0193", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-retrieval-late-medium-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "incorrect shipping fee value"}}
+{"id": "c-0390", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-planning-early-medium-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "adopting the figure the clinic coordinator gave without considering the priority"}}
+{"id": "h-reasoning-late-long-0004", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0358", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0232", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0182", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0351", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "The agent incorrectly assumed the sector officer's target figure of 208 is the correct balance to use, when in fact the balance to use is the audited count of 36, which is the current figure."}}
+{"id": "c-0129", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0157", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-retrieval-early-long-0005", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0038", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0261", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0321", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0223", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0131", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "The agent incorrectly adopted the target figure from the sector officer without considering the per-shipment capacity of the Rusafa sector, which is 150 requests. This led to an incorrect computation of the shortfall and the number of shipments."}}
+{"id": "h-reasoning-mid-long-0002", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-tool-use-late-medium-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0332", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "redundant validation of date format"}}
+{"id": "c-0444", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "The agent incorrectly assumed the price per copy is 25, when it should have used the price per copy from the faculty branch, which is not provided in the input. The correct price per copy should be 12."}}
+{"id": "h-reasoning-late-medium-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-human-interaction-early-medium-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "adopted shipment capacity: 50 seat, but the target balance is 155 seat, which is more than the per-shipment capacity of 50 seat, so the computation of shortfall should be adjusted accordingly"}}
+{"id": "c-0307", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "The agent incorrectly rounded up the number of shipments, which should be rounded down to 1, since 140 copy is less than the shipment capacity of 80 copy."}}
+{"id": "h-tool-use-early-medium-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-reasoning-early-long-0001", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "c-0108", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0151", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-planning-mid-medium-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "The unit cost for the North region was incorrectly set to 20, when it should be 25."}}
+{"id": "h-reasoning-early-medium-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The calculation of the shortfall is incorrect because it should be the difference between the target balance and the current balance, not the difference between the current balance and the per-shipment capacity."}}
+{"id": "h-reasoning-early-medium-0001", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0196", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "redundant check of unit of measurement"}}
+{"id": "c-0184", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-tool-use-late-medium-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 10, "reason": "The agent incorrectly assumed the priority was 2, when the requested priority was 3."}}
+{"id": "c-0037", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0320", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "The agent subtracted the retrieved balance from the target figure, but the retrieved balance was not the current balance, it was the audited count. The correct balance to use should be the current balance minus the per-shipment capacity times the number of shipments already made, not the audited count."}}
+{"id": "c-0379", "lang": "ar", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": null}}
+{"id": "h-human-interaction-mid-medium-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "The librarian provided a target figure of 365, which is higher than the policy fixes the target balance at 366. This discrepancy should have been caught and corrected."}}
+{"id": "c-0027", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "The agent incorrectly adopted the target figure from the warehouse supervisor without considering the per-shipment capacity of the South region, which is 45 units, not 40 units."}}
+{"id": "c-0192", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0382", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0298", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "The calculation of the shortfall is incorrect because it should be 363 - 56 = 307, but the correct calculation should be 363 - 80 = 283 for the morning clinic, and then 283 + 30 = 313 for the total shortfall, which is then divided by the total capacity (80 + 30 = 110) to get the correct number of shipments."}}
+{"id": "h-planning-late-medium-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "The sector officer confirmed the target figure as 209, but the computation of the shortfall should be 209 - 76 = 133, which is correct. However, the agent should have used the per-shipment capacity of the Karkh sector (40) instead of the Rusafa sector (45) to compute the number of shipments. The correct computation should be 133 / 40 = 3.33, which should be rounded up to 4, not 3."}}
+{"id": "c-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-reasoning-early-medium-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The computation of the shortfall is incorrect. The correct computation should be 270 - 81 = 189, not 819."}}
+{"id": "c-0376", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0226", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The applicable unit cost was fixed to 15, but the unit cost in the North region is actually 15, which is correct, but the field request states 50 units, implying the unit cost should be 50, not 15."}}
+{"id": "h-human-interaction-early-medium-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "The sector officer provided a target figure of 192, which is higher than the policy fixes the target balance at 129. This incorrect figure led to an incorrect computation of the shortfall and subsequent actions."}}
+{"id": "h-reasoning-mid-medium-0001", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0093", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "The librarian's confirmation is not validated, and the target figure is not checked for consistency with the policy fixes the target balance."}}
+{"id": "h-retrieval-early-long-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "The pre-fee amount was calculated as 400, but the correct calculation should have taken into account the records fee of 10, not 1."}}
+{"id": "h-tool-use-late-medium-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 11, "reason": "The priority in the request is set to 1, but the requested priority is 3"}}
+{"id": "h-retrieval-mid-medium-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The inventory log returns 91, but the problem statement specifies the last audited count recorded 19 unit, which should be used instead."}}
+{"id": "h-reasoning-late-medium-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "The librarian confirmed the target figure as 327, but the calculation of the shortfall should be 327 - 85 = 242, not 327 - 85 = 242. The correct calculation should be based on the current balance, not the target balance."}}
+{"id": "h-tool-use-early-long-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The pre-fee amount was calculated as 870, which is incorrect because the price per copy is 30 and the count is 29, so the correct calculation should be 30 * 29 = 870, but the agent should have rounded down to 870, not rounded up to 870."}}
+{"id": "c-0200", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "The agent incorrectly assumed the price per copy is 15, when it should be 20 for 16 copies, leading to an incorrect pre-fee amount."}}
+{"id": "c-0229", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-reasoning-mid-long-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "The pre-fee amount was calculated as 29 * 15 = 435, not 345, because the correct price per copy is 50 in the central branch, not 15 in the faculty branch."}}
+{"id": "c-0413", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "The agent incorrectly assumed the unit cost is 18 for the North region, but the problem statement does not specify that the region is North, it only mentions the unit cost for the North region. The correct unit cost should be 20 for the South region, which is the region implied by the problem statement."}}
+{"id": "h-planning-early-medium-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 1, "reason": "adopted shipment capacity is incorrect for the morning programme"}}
+{"id": "h-tool-use-mid-long-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0398", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-planning-mid-medium-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "adopted shipment capacity is incorrect for the morning programme"}}
+{"id": "h-retrieval-late-medium-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "The reports platform returns 23, but the audited count is 32, so the correct figure should be 32, not 23."}}
+{"id": "c-0433", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0338", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0063", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-planning-early-medium-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "adopting the figure the registrar gave without considering the actual per-shipment capacity for the evening programme"}}
+{"id": "h-retrieval-late-long-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "The recorded registration fee is 30, not 3"}}
+{"id": "h-reasoning-early-long-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-tool-use-early-medium-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "The priority in the request is set to 4, but the requested priority is 2."}}
+{"id": "c-0418", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-human-interaction-late-long-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 10, "reason": "The agent incorrectly assumed the count was 74, when it should have used the field request value of 47."}}
+{"id": "c-0349", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0060", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "The agent incorrectly assumed the price per copy is 22, but the price per copy is actually 50 in the central branch, not the faculty branch."}}
+{"id": "h-reasoning-mid-medium-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "The computation of the shortfall is incorrect because it should be the difference between the target balance and the current balance, not the difference between the target balance and the current balance plus the current balance."}}
+{"id": "c-0230", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "adopting the figure the registrar gave without considering the evening programme capacity"}}
+{"id": "h-tool-use-late-long-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "The pre-fee amount was calculated as 2610, but the correct calculation should have taken into account the registration fee of 75, which should have been added to the fee per seat (45) before multiplying by the count (58)."}}
+{"id": "c-0326", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0340", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "adopting the figure from the clinic coordinator without considering the evening clinic capacity"}}
+{"id": "c-0112", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0369", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "The librarian confirmed the target figure as 129, but the calculation of the shortfall should be 129 - 18 = 111, which is correct. However, the correct calculation should be 129 - 18 = 111, and then the shipment count should be 1, not 111. The correct shipment count should be the result of dividing the correct shortfall by the shipment capacity, which is 111 / 120 = 0.925, rounded up to 1. The hallucination is in step 8, where the correct calculation is performed, but the result is not used correctly in the subsequent steps."}}
+{"id": "c-0177", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-reasoning-mid-long-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "The pre-fee amount was calculated as 2198, which is incorrect because the fee per seat is 22 and the count is 59, so the correct calculation is 22 * 59 = 1298"}}
+{"id": "c-0020", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "The agent incorrectly assumed the target balance was 253 for the Karkh sector, but the problem statement specifies that the target balance is 253 for the entire region, not the sector."}}
+{"id": "c-0171", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The applicable price per copy was fixed to 15, but the correct price per copy in the faculty branch is not explicitly stated in the query. The correct price per copy is 15, but the agent should have checked the query for the correct price before proceeding with the calculation."}}
+{"id": "c-0425", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-reasoning-mid-long-0001", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "The trajectory incorrectly assumes the inspection fee is not part of the total cost, when in fact it should be added to the pre-fee amount before computing the total."}}
+{"id": "c-0292", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "The librarian confirmed the target figure as 409, but the calculation of the shortfall should be 409 - 59 = 350, which is correct. However, the calculation of the number of shipments should be (350 / 40) = 8.75, which should be rounded up to 9, but the correct rounding should be to 9.5, not 9, because 8.75 is closer to 9 than to 8. The correct number of shipments should be 9.5, not 9."}}
+{"id": "h-retrieval-mid-medium-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The reports platform returns 35, but the correct figure to use is 53, which was audited and agreed upon by the sector officer."}}
+{"id": "c-0122", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "The calculation of the shortfall is incorrect because it should be the difference between the target balance and the current balance, not the difference between the current balance and the target balance."}}
+{"id": "h-human-interaction-early-medium-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "The sector officer provided a target figure of 240, which is higher than the policy-fixed target of 204. This discrepancy should have been addressed before proceeding with the computation."}}
+{"id": "c-0404", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0353", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "The calculation of the shortfall is incorrect because it should be the difference between the target balance and the current balance, not the difference between the current balance and the target balance."}}
+{"id": "h-reasoning-early-long-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The calculation of the shortfall is incorrect because it should be the difference between the target balance and the current balance, not the difference between the current balance and the target balance."}}
+{"id": "c-0355", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0265", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-reasoning-mid-long-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0083", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "The calculation of the shortfall is incorrect because it should be the difference between the target balance and the current balance, not the difference between the current balance and the target balance."}}
+{"id": "h-tool-use-late-long-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The applicable price per copy was fixed to 45, but the correct price per copy in the faculty branch is 35, not 45."}}
+{"id": "h-planning-early-long-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "The unit cost was incorrectly set to 12 instead of 18 for the North region."}}
+{"id": "c-0245", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 10, "reason": "The librarian's target figure of 281 is not verified to be consistent with the policy's target balance, which is not provided in the trajectory. The agent assumes the librarian's figure is correct without checking its consistency with the policy."}}
+{"id": "c-0047", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0163", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-planning-late-long-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "The applicable price per copy was incorrectly set to 35, which is the price for the central branch, not the faculty branch. The correct price per copy for the faculty branch is 25."}}
+{"id": "h-tool-use-mid-long-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "The librarian confirmed the target figure as 324, but the policy fixes the target balance at 324 copy, which should be 324 copy in the faculty branch, not the central branch."}}
+{"id": "h-reasoning-late-long-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 10, "reason": "adopting the figure the warehouse supervisor gave without considering the regional capacity constraints"}}
+{"id": "h-human-interaction-late-long-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "the librarian confirmed a count of 12, but the original request stated 21 copies, which should be used for the calculation"}}
+{"id": "c-0021", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "The agent adopted the figure the registrar gave without considering the actual target balance of 407 seat, which is higher than the per-shipment capacity of 60 seat. This led to an incorrect computation of the shortfall."}}
+{"id": "h-human-interaction-early-long-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "adopting the figure the sector officer gave as 29 instead of 209"}}
+{"id": "c-0034", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-human-interaction-late-long-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 10, "reason": "The librarian's figure to use is 930, which is higher than the target balance of 390, leading to an incorrect computation of the shortfall."}}
+{"id": "c-0130", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0267", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "The agent incorrectly assumed the unit cost is 30 for the North region without considering the context of the request, which is actually for the South region with a unit cost of 28."}}
+{"id": "c-0159", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "The agent incorrectly assumes the sector officer's figure is the target balance, but the problem statement specifies that the policy fixes the target balance at 469, which should be used instead of the sector officer's figure."}}
+{"id": "h-planning-late-long-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "The applicable price per copy was incorrectly set to 50, which is the price in the central branch, not the faculty branch, where the price is 45."}}
+{"id": "h-human-interaction-late-long-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 10, "reason": "The warehouse supervisor confirmed a count of 25, which is inconsistent with the field request of 52 units. This discrepancy should have been addressed before proceeding with the calculation."}}
+{"id": "h-retrieval-late-long-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 10, "reason": "The trajectory incorrectly assumes the clinic coordinator's target figure is the correct figure to use, but it should be the policy's target balance of 299, not the audited count of 38."}}
+{"id": "h-planning-early-long-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "The fee per seat is 18 in the morning programme, not 28"}}
+{"id": "c-0388", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-planning-early-long-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "adopting the figure the clinic coordinator gave without considering the evening clinic capacity"}}
+{"id": "c-0197", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "The computation of the shortfall is incorrect because it should be the difference between the target balance and the current balance, not the difference between the current balance and the target balance."}}
+{"id": "h-human-interaction-mid-long-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "The clinic coordinator confirmed a count of 25, which is different from the filed request of 52 appointments. This discrepancy should have been addressed before proceeding with the calculation."}}
+{"id": "c-0348", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 10, "reason": "The librarian confirmed the target figure as 339, but the calculation of the shortfall should be 339 - 35 = 304, which is correct. However, the calculation of the number of shipments should be (339 - 35) / 40 = 7.5, which should be rounded up to 8. The correct calculation should be 339 - 35 = 304, then 304 / 40 = 7.6, which should be rounded up to 8. The correct answer should be 7, not 8."}}
+{"id": "h-reasoning-early-long-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The calculation of the shortfall is incorrect because it should be 341 - 36 = 305, not 341 - 36 = 35."}}
+{"id": "c-0359", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0213", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-reasoning-early-long-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-planning-early-long-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 1, "reason": "applicable per-appointment fee was set to 50 instead of 15 for the morning clinic"}}
+{"id": "c-0119", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-planning-mid-long-0000", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 5, "reason": "The applicable price per copy was incorrectly set to 28, which is the price in the central branch, not the faculty branch, where the price is 30."}}
+{"id": "c-0019", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 10, "reason": "The agent adopted the figure the registrar gave without considering the actual target balance of 256 seat, which is already achieved with the current balance of 67 seat. The correct shortfall should be 0, not 189."}}
+{"id": "c-0441", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "c-0195", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 6, "reason": "The agent incorrectly assumed the fee per seat is 30 for the morning programme without considering the evening programme fee as a reference point."}}
+{"id": "h-tool-use-late-long-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 12, "reason": "The priority argument in the call to open_slots is set to 1, but the requested priority is 2."}}
+{"id": "h-planning-mid-long-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "adopted shipment capacity is incorrect for the morning programme"}}
+{"id": "c-0252", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-tool-use-late-long-0001", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-tool-use-early-long-0009", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-retrieval-early-long-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The pre-fee amount was calculated using the wrong tariff, which was set to 25 instead of the correct tariff of 50 for the Rusafa sector."}}
+{"id": "c-0274", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "The librarian confirmed the target figure as 153, but the calculation of the shortfall should be 153 - 67 = 86, which is correct. However, the correct calculation of the shipment count should be (153 - 67) / 75 = 1.6, which should be rounded up to 2. But the correct answer is not the issue here. The issue is that the agent assumes the shipment capacity is 75 for the central branch, but the problem statement says the shipment capacity is 90 for the central branch. The correct shipment capacity should be used for the calculation."}}
+{"id": "c-0094", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "The librarian's target figure of 404 is inconsistent with the policy's target balance of 404 copy in the faculty branch, which is 75 copy. The correct target balance should be 75 copy."}}
+{"id": "c-0227", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-human-interaction-late-long-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 11, "reason": "The warehouse supervisor confirmed a target figure of 435, which is higher than the policy-fixed target of 345. This discrepancy should have been addressed before computing the shortfall."}}
+{"id": "c-0295", "lang": "en", "run": 0, "pred": {"is_hallucination": false, "hallucination_step": null, "reason": ""}}
+{"id": "h-retrieval-mid-long-0001", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "adopting the figure the librarian gave without considering the current balance in the faculty branch"}}
+{"id": "h-planning-late-long-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "The applicable price per copy was incorrectly set to 12, which is the price for the central branch, not the faculty branch, where the price is 18."}}
+{"id": "h-retrieval-late-long-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 11, "reason": "The sector officer confirmed the target figure as 266, but the correct target balance should be the sum of the per-shipment capacities for both sectors, which is 80 + 150 = 230, not 266."}}
+{"id": "h-human-interaction-early-long-0006", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 3, "reason": "The sector officer confirmed a target figure of 297, which is higher than the policy fixes the target balance at 279. This discrepancy should have been addressed before proceeding with the computation."}}
+{"id": "c-0380", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "The calculation of the shortfall is incorrect because it should be the difference between the target balance and the current balance, not the difference between the current balance and the target balance."}}
+{"id": "h-tool-use-mid-long-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "The priority requested is 3, but the tool was called with priority=4"}}
+{"id": "c-0254", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "The calculation of the shortfall is incorrect because it should be the difference between the target balance and the current balance, not the difference between the target balance and the current balance minus the current balance."}}
+{"id": "c-0264", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "The agent incorrectly adopted the figure the sector officer gave as the target figure, which is not the case. The target balance is 280, but the current balance is 27, so the shortfall should be 280 - 27 = 253, but the agent should not have adopted the figure 280 as the target figure."}}
+{"id": "h-reasoning-late-long-0004", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 12, "reason": "The computation of the shortfall is incorrect because it should be the difference between the target balance and the current balance, not the difference between the current balance and the target balance."}}
+{"id": "h-retrieval-early-long-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "The handling fee was incorrectly looked up as 36, but the correct value is not provided in the query. The correct handling fee should be used, which is not 63."}}
+{"id": "c-0089", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "The librarian's figure to use is 127, but the policy fixes the target balance at 127 copy, which should be used instead of the librarian's figure."}}
+{"id": "h-retrieval-mid-long-0005", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 11, "reason": "The records fee was incorrectly added to the total. The correct total should be the pre-fee amount (240) minus the records fee (41), not the other way around."}}
+{"id": "c-0304", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "The agent adopted the figure the sector officer gave without considering the policy's target balance as a constraint, leading to an incorrect computation of the shortfall."}}
+{"id": "c-0352", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "The calculation of the shortfall is incorrect because it should be the difference between the target balance and the current balance, not the difference between the current balance and the target balance."}}
+{"id": "h-retrieval-mid-long-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "The agent subtracted the retrieved balance from the target figure, but the retrieved balance was 65, not 66. The correct balance should be 66, not 65."}}
+{"id": "h-retrieval-early-long-0008", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 10, "reason": "The records fee was incorrectly assumed to be 74 instead of 47"}}
+{"id": "h-human-interaction-late-long-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 12, "reason": "The target balance is set to 350, not 530, which is the figure the registrar gave. The correct target balance should be used for the computation."}}
+{"id": "h-reasoning-mid-long-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "The sector officer confirmed the target figure as 349, but the computation of the shortfall should be 349 - 81 = 268, not 628."}}
+{"id": "c-0358", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 4, "reason": "The calculation of the shortfall is incorrect because it should be the difference between the target balance and the current balance, not the difference between the current balance and the target balance."}}
+{"id": "h-planning-late-long-0003", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 12, "reason": "The calculation of the shortfall is incorrect because it should be the difference between the target figure and the current balance, not the difference between the current balance and the target figure."}}
+{"id": "h-reasoning-mid-long-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "The sector officer confirmed the target figure as 246, but the calculation of the shortfall should be 61 - 50 = 11, not 815."}}
+{"id": "c-0193", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 10, "reason": "The agent adopted the target figure from the warehouse supervisor without considering the policy's target balance, which is 164 unit, but the current balance is 18 unit, so the correct target balance should be 18 + 80 = 98 unit, not 164 unit."}}
+{"id": "c-0402", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 12, "reason": "The agent incorrectly adopted the figure the sector officer gave as the target figure, which is not the policy-fixed target balance, but rather the audited count. The correct target balance is 272, not 59."}}
+{"id": "h-reasoning-early-long-0001", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "The computation of the number of shipments is incorrect because it should be rounded up, but the agent rounds up the result of the division of the shortfall by the shipment capacity, which is not necessarily an integer. The correct approach would be to divide the shortfall by the shipment capacity and round up the result to the nearest integer."}}
+{"id": "c-0129", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "The calculation of the shortfall is incorrect because it should be the difference between the target balance and the current balance, not the difference between the current balance and the target balance."}}
+{"id": "c-0141", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "The calculation of the shortfall is incorrect because it should be the difference between the target balance and the current balance, not the difference between the target balance and the retrieved balance."}}
+{"id": "c-0232", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 7, "reason": "The calculation of the shortfall is incorrect because it should be the difference between the target balance and the current balance, not the difference between the current balance and the target balance."}}
+{"id": "c-0261", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "The agent subtracted the retrieved balance from the target figure, but the retrieved balance was not the current balance, it was the audited count. The correct balance to use should be the current balance, which is not provided in the trajectory."}}
+{"id": "h-tool-use-mid-long-0007", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 10, "reason": "The priority in the request is set to 2, but the priority in the query is set to 1. The priority should be consistent throughout the process."}}
+{"id": "c-0002", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 9, "reason": "The agent subtracted the retrieved balance from the target figure, but the retrieved balance was not the current balance, it was the audited count. The correct balance to use should be the current balance, which is not provided in the trajectory."}}
+{"id": "c-0379", "lang": "en", "run": 0, "pred": {"is_hallucination": true, "hallucination_step": 8, "reason": "The agent subtracted the retrieved balance from the target figure, but the retrieved balance was not the current balance, it was the audited count. The correct calculation should be the difference between the target balance and the current balance."}}

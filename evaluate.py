@@ -407,3 +407,26 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+# === PKGC_STYLE_PATCH (package C): styles per paper §3.3.3 + last-JSON parser ===
+STYLE = 'cot'
+SCAFFOLD = {'cot': {'ar': '\nقبل إصدار الحكم اتبع الخطوات التالية بترتيبها: (1) استخرج من الطلب كل قيمة مرجعية منصوص عليها (أرقام، تعرفات، قنوات). (2) امش عبر خطوات المسار واحدة واحدة وقارن كل قيمة مستخدمة أو ناتجة بالمرجعيات المستخرجة. (3) بعد اكتمال المقارنة فقط، أصدر الحكم. اكتب هذا التحليل نصاً، ثم أنهِ ردك بكائن JSON واحد في سطره الأخير.', 'en': '\nBefore judging, follow these steps in order: (1) extract every reference value stated in the query (numbers, tariffs, channels); (2) walk the trajectory step by step and compare each used or produced value against the extracted references; (3) only after the comparison is complete, decide. Write this analysis as text, then END your reply with a single JSON object on the final line.'}, 'freecot': {'ar': '\nفكر بحرية كما تشاء قبل الحكم، ثم أنهِ ردك بكائن JSON واحد في سطره الأخير.', 'en': '\nReason freely in any way you like before judging, then END your reply with a single JSON object on the final line.'}, 'direct': {'ar': '\nأعد كائن JSON فوراً كأول شيء في ردك، دون أي تحليل أو نص قبله.', 'en': '\nReturn the JSON object immediately as the very first thing in your reply, with no analysis or text before it.'}}
+_orig_render_prompt = render_prompt
+def render_prompt(item, lang):
+    return _orig_render_prompt(item, lang) + SCAFFOLD.get(STYLE, {}).get(lang, '')
+_orig_parse_json = parse_json
+def parse_json(raw):
+    cands = re.findall(r'\{[^{}]*\}', raw or '', re.S)
+    for c in reversed(cands):
+        try:
+            d = json.loads(c)
+            if 'is_hallucination' in d:
+                step = d.get('hallucination_step')
+                try: step = int(step) if step is not None else None
+                except (TypeError, ValueError): step = None
+                return {'is_hallucination': bool(d.get('is_hallucination')),
+                        'hallucination_step': step,
+                        'reason': d.get('hallucination_reason', '')}
+        except Exception:
+            continue
+    return _orig_parse_json(raw)
