@@ -80,7 +80,7 @@ Styles: `cot` (structured scaffold), `freecot` (unconstrained reasoning), `direc
   every prompt, the parser extracts the last JSON object in the reply, and the `freecot`
   style is available. All runs added in the revision (`raw_qwen7b_free300`, `raw_rep60x3`,
   `raw_llama8b_*`, `raw_arab_*`) used v1.1.
-* **v1.0** (git tag `v1.0`): the original release used for `raw_qwen7b_cot300.jsonl`; it
+* **v1.0** (commit `e884968`): the original release used for `raw_qwen7b_cot300.jsonl`; it
   shared the decoding budgets and parser contract but did not append the literal scaffold
   text. The raw prediction file of the v1.0 *direct* condition was not preserved; the
   direct-condition numbers in the paper are those of the original run log, and the
